@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('dog')).sort(
+  (a, b) => b.data.date.getTime() - a.data.date.getTime()
+);
+---
+
+<BaseLayout title="犬の記事一覧" description="犬の食事・健康・しつけに関する記事をまとめています。">
+  <div class="max-w-4xl mx-auto px-4 py-10">
+    <!-- ページヘッダー -->
+    <div class="flex items-center gap-3 mb-8">
+      <span class="text-4xl">🐶</span>
+      <div>
+        <h1 class="text-2xl font-bold text-gray-900">犬の記事一覧</h1>
+        <p class="text-sm text-gray-500 mt-0.5">全{posts.length}件</p>
+      </div>
+    </div>
+
+    {posts.length === 0 ? (
+      <p class="text-gray-500 text-center py-20">記事はまだありません。</p>
+    ) : (
+      <div class="grid md:grid-cols-2 gap-4">
+        {posts.map((post) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            tags={post.data.tags}
+            href={`/dog/${post.id}/`}
+          />
+        ))}
+      </div>
+    )}
+  </div>
+</BaseLayout>

@@ -1,0 +1,38 @@
+---
+interface AffiliateLink {
+  label: string;
+  url: string;
+}
+
+interface Props {
+  links: AffiliateLink[];
+}
+
+const { links } = Astro.props;
+---
+
+{links.length > 0 && (
+  <aside class="my-8 bg-amber-50 border border-amber-200 rounded-xl p-5">
+    <p class="text-xs text-amber-700 font-semibold mb-3 uppercase tracking-wide">
+      📦 関連商品・サービス
+    </p>
+    <ul class="flex flex-col gap-2">
+      {links.map((link) => (
+        <li>
+          <a
+            href={link.url}
+            target="_blank"
+            rel="noopener noreferrer nofollow"
+            class="inline-flex items-center gap-1.5 text-sm font-medium text-amber-800 hover:text-amber-600 underline underline-offset-2 transition-colors"
+          >
+            {link.label}
+            <span class="text-xs">↗</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <p class="text-xs text-gray-400 mt-3">
+      ※ 上記リンクはアフィリエイトリンクです。
+    </p>
+  </aside>
+)}

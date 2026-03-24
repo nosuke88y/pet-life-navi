@@ -1,0 +1,42 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  date: Date;
+  tags: string[];
+  href: string;
+}
+
+const { title, description, date, tags, href } = Astro.props;
+
+// 日付フォーマット（例: 2026年3月24日）
+const formattedDate = date.toLocaleDateString('ja-JP', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<a href={href} class="group block bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-emerald-300 transition-all">
+  <!-- タグ -->
+  <div class="flex flex-wrap gap-1 mb-2">
+    {tags.map((tag) => (
+      <span class="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full">
+        #{tag}
+      </span>
+    ))}
+  </div>
+
+  <!-- タイトル -->
+  <h2 class="text-base font-bold text-gray-900 group-hover:text-emerald-700 transition-colors leading-snug mb-1">
+    {title}
+  </h2>
+
+  <!-- 説明文 -->
+  <p class="text-sm text-gray-500 line-clamp-2 mb-3">{description}</p>
+
+  <!-- 日付 -->
+  <time datetime={date.toISOString()} class="text-xs text-gray-400">
+    {formattedDate}
+  </time>
+</a>
