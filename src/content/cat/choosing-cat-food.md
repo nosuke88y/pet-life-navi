@@ -3,12 +3,10 @@ title: "猫に合ったキャットフードの選び方【完全ガイド】"
 description: "キャットフードの種類・主成分・ライフステージ別の選び方を解説。猫の健康を長く維持するための食事選びを学びましょう。"
 date: 2026-03-24
 tags: ["キャットフード", "食事", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 猫用 公式サイトで見る"
-    url: "https://example.com/royal-canin-cat"
-  - label: "【PR】モンプチ プレミアム 公式サイトで見る"
-    url: "https://example.com/monpetit"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫は「偏食家」と言われるほど食事へのこだわりが強い動物です。適切なキャットフードを選ぶことは、猫の健康寿命を延ばすことに直結します。この記事では、キャットフード選びで押さえておきたいポイントを詳しく解説します。
 
@@ -49,3 +47,6 @@ affiliateLinks:
 ## まとめ
 
 猫の健康は毎日の食事の積み重ねで決まります。年齢・体格・健康状態に合ったフードを選び、定期的に獣医師に相談しながら見直していきましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

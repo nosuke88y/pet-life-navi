@@ -3,14 +3,10 @@ title: "猫の尿路結石に良いキャットフード【ストルバイト・
 description: "猫の尿路結石（ストルバイト・シュウ酸カルシウム）の食事管理を解説。水分補給の徹底・マグネシウム制限・尿pH管理など、結石を予防・改善するキャットフードの選び方をご紹介します。"
 date: 2026-03-24
 tags: ["尿路結石", "ストルバイト", "泌尿器ケア", "キャットフード", "水分補給"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン ユリナリーケア 猫用 公式サイトで見る"
-    url: "https://example.com/rc-urinary-cat"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット c/d 猫用 公式サイトで見る"
-    url: "https://example.com/hills-cd-cat"
-  - label: "【PR】ピュリナ プロプラン UR 尿路ケア 公式サイトで見る"
-    url: "https://example.com/purina-ur-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の尿路結石（泌尿器症候群・FLUTD）は猫に非常に多い疾患のひとつです。特に室内飼い・去勢雄猫・運動量が少ない猫に多く見られます。食事管理は結石の予防と再発防止において非常に重要な役割を果たします。
 
@@ -86,3 +82,6 @@ affiliateLinks:
 ## まとめ
 
 猫の尿路結石の食事管理の核心は「水分補給の徹底・マグネシウム制限・適切な尿pH管理」です。最も手軽で効果的な対策はウェットフードへの切り替えまたはドライフードへの水分追加です。尿路結石の診断を受けた猫は必ず動物病院で結石の種類を確認し、獣医師の指示のもとで療法食または泌尿器ケアフードに切り替えましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

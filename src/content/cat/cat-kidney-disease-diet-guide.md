@@ -3,14 +3,10 @@ title: "猫の腎臓病の食事管理と療法食【ステージ別ケアの完
 description: "猫の慢性腎臓病（CKD）における食事管理を徹底解説。低リン食の重要性、タンパク質の考え方、水分補給のポイント、ステージ別の療法食の活用法をわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["猫", "腎臓病", "慢性腎臓病", "CKD", "療法食", "低リン"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 腎臓サポート（猫用）公式サイトで見る"
-    url: "https://example.com/rc-renal-cat"
-  - label: "【PR】ヒルズ k/d 腎臓ケア キャットフード 公式サイトで見る"
-    url: "https://example.com/hills-kd-cat"
-  - label: "【PR】アニモンダ フォム・ファインステン 腎臓ケア 公式サイトで見る"
-    url: "https://example.com/animonda-renal-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の慢性腎臓病（CKD: Chronic Kidney Disease）は中高齢猫に非常に多い病気で、15歳以上の猫の約30〜40%が罹患すると言われています。腎臓の機能は一度低下すると回復が難しいため、食事管理で進行を遅らせることが治療の中心となります。
 
@@ -68,3 +64,6 @@ affiliateLinks:
 ## まとめ
 
 猫の腎臓病の食事管理は「低リン・水分補給・適切なタンパク質・ウェット食の活用」が基本です。病期（ステージ）ごとに食事内容を調整し、定期的な血液・尿検査で状態をモニタリングしながら進めましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

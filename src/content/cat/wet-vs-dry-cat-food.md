@@ -3,14 +3,10 @@ title: "猫のウェットフードと乾燥フードの使い分け【メリッ
 description: "猫のウェットフードとドライフードのメリット・デメリットを比較解説。水分補給・腎臓ケア・肥満予防・シニア猫など、目的別にどちらを選ぶべきかわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["ウェットフード", "ドライフード", "缶詰", "キャットフード", "水分補給"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン ウェット 成猫用 公式サイトで見る"
-    url: "https://example.com/rc-wet-cat"
-  - label: "【PR】ヒルズ サイエンス・ダイエット ウェット 猫用 公式サイトで見る"
-    url: "https://example.com/hills-wet-cat"
-  - label: "【PR】ロイヤルカナン インドア ドライ 成猫用 公式サイトで見る"
-    url: "https://example.com/rc-indoor-dry"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 「猫にはドライとウェット、どちらが良いの？」これはよく聞かれる疑問です。どちらにも明確なメリット・デメリットがあり、「どちらが絶対に良い」という答えはありません。愛猫の健康状態・年齢・嗜好に合わせて使い分けることが最善のアプローチです。
 
@@ -98,3 +94,6 @@ affiliateLinks:
 ## まとめ
 
 猫にはドライフードとウェットフードそれぞれに明確なメリット・デメリットがあります。最も重要なのは**水分摂取量の確保**であり、ドライフードのみでの飼育は泌尿器・腎臓疾患のリスクを高めます。健康な猫はドライ＋ウェットの組み合わせ、泌尿器・腎臓疾患のある猫はウェットメインにすることが、愛猫の健康を守る最善の選択です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

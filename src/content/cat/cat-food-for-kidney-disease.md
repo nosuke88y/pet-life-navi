@@ -3,14 +3,10 @@ title: "猫の腎臓病におすすめのフード【療法食と食事管理の
 description: "猫に多い慢性腎臓病（CKD）の食事管理を徹底解説。リン制限・タンパク質コントロール・水分補給など、腎臓への負担を減らすキャットフードの選び方を獣医師監修でお伝えします。"
 date: 2026-03-24
 tags: ["腎臓病", "CKD", "療法食", "キャットフード", "シニア猫"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 腎臓サポート 猫用 公式サイトで見る"
-    url: "https://example.com/rc-renal-cat"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット k/d 猫用 公式サイトで見る"
-    url: "https://example.com/hills-kd-cat"
-  - label: "【PR】ピュリナ プロプラン NF 腎臓機能ケア 公式サイトで見る"
-    url: "https://example.com/purina-nf"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の慢性腎臓病（CKD）は、猫が最もかかりやすい病気のひとつです。特に10歳を超えた高齢猫では約30〜40%が腎臓病を抱えているとも言われています。腎臓は一度ダメージを受けると再生しないため、進行を遅らせる食事管理が治療の中心となります。
 
@@ -86,3 +82,6 @@ affiliateLinks:
 ## まとめ
 
 猫の腎臓病の食事管理の核心は「リン制限・水分補給・適切なタンパク質管理」です。腎臓病は完治しませんが、適切な食事管理で進行を大幅に遅らせることができます。定期的な血液・尿検査を続けながら、かかりつけの獣医師と相談して療法食を選ぶことが、愛猫の腎臓を長く守る最善の方法です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

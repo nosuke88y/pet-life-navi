@@ -3,14 +3,10 @@ title: "成猫に子猫用フードを与えても良いか？【カロリーオ
 description: "成猫に子猫用（キトン用）キャットフードを与えた場合のリスクを解説。カロリー過多による肥満、ミネラル過剰の問題、多頭飼いでの管理方法、やむを得ない場合の対処法を紹介します。"
 date: 2026-03-25
 tags: ["猫", "成猫", "キャットフード", "子猫用フード", "肥満", "栄養管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン インドア アダルト（成猫用）公式サイトで見る"
-    url: "https://example.com/rc-indoor-adult"
-  - label: "【PR】ヒルズ サイエンス・ダイエット アダルト（成猫用）公式サイトで見る"
-    url: "https://example.com/hills-adult-cat"
-  - label: "【PR】アカナ ワイルドプレイリー（成猫用）公式サイトで見る"
-    url: "https://example.com/acana-wild-prairie"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 子猫と成猫を同じ家で飼っている場合、「成猫が子猫のフードを食べてしまう」という状況はよくあります。1〜2回食べてしまったくらいは問題になりにくいですが、長期的に継続することにはリスクがあります。
 
@@ -66,3 +62,6 @@ affiliateLinks:
 ## まとめ
 
 成猫に子猫用フードを継続して与えることは、肥満・ミネラル過剰・消化器トラブルのリスクがあります。緊急時は給与量を抑えながら短期間使用し、できるだけ早く成猫用フードに戻しましょう。多頭飼いでは食事場所と時間の管理で、それぞれが適切なフードを食べられる環境を整えましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

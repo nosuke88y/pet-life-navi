@@ -3,14 +3,10 @@ title: "成猫に子猫用フードを与えても良いか【栄養過多のリ
 description: "「子猫用フードが余っているから成猫に与えてもいい？」という疑問に答えます。成猫に子猫用フードを与えた場合のリスク、成猫用との栄養の違い、正しい切り替えのタイミングを解説します。"
 date: 2026-03-24
 tags: ["子猫用フード", "成猫", "キャットフード", "栄養管理", "フード切り替え"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン インドア 成猫用 公式サイトで見る"
-    url: "https://example.com/rc-indoor-adult"
-  - label: "【PR】ヒルズ サイエンス・ダイエット 成猫用 公式サイトで見る"
-    url: "https://example.com/hills-adult"
-  - label: "【PR】アカナ ワイルドプレイリー 猫用 公式サイトで見る"
-    url: "https://example.com/acana-prairie-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 「子猫用フードが余ったので成猫に与えてもいい？」「多頭飼いで子猫と成猫がいるから同じフードを使いたい」——このような疑問はよく聞かれます。結論から言うと、**子猫用フードを成猫に長期的に与えることは推奨されません**。この記事では理由と正しい対処法を解説します。
 
@@ -79,3 +75,6 @@ affiliateLinks:
 ## まとめ
 
 成猫に子猫用フードを与えることは、肥満・腎臓への負担・ミネラル過剰のリスクがあるため長期的には推奨されません。1歳を目安に成猫用フードへ切り替えましょう。短期間（1〜2週間）であれば深刻な問題は起きにくいですが、習慣的に与え続けることは避けることが大切です。多頭飼いの場合は全年齢対応フードか、食事の場所を分ける工夫をしましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

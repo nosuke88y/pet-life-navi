@@ -3,14 +3,10 @@ title: "猫の耳に良いキャットフード【耳の健康をサポートす
 description: "猫の耳の健康を食事でサポートする方法を解説。耳ダニ・外耳炎・アレルギーによる耳トラブルと食事の関係、オメガ3脂肪酸・亜鉛・ビタミンの役割、フードの選び方を紹介します。"
 date: 2026-03-25
 tags: ["猫", "耳", "外耳炎", "キャットフード", "アレルギー", "オメガ3"]
-affiliateLinks:
-  - label: "【PR】アカナ パシフィカ（オメガ3豊富な魚ベース）公式サイトで見る"
-    url: "https://example.com/acana-pacifica-cat"
-  - label: "【PR】ロイヤルカナン スキン＆コート（猫用）公式サイトで見る"
-    url: "https://example.com/rc-skin-coat-cat"
-  - label: "【PR】ネイチャーズバリアント オリジン（フィッシュ）公式サイトで見る"
-    url: "https://example.com/origins-fish-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫が頻繁に耳を掻いていたり、耳から異臭がする場合、外耳炎や耳ダニなどのトラブルが起きているかもしれません。こうした耳の問題には食物アレルギーが関係していることもあります。この記事では、猫の耳の健康を食事でサポートする方法を解説します。
 
@@ -73,3 +69,6 @@ affiliateLinks:
 ## まとめ
 
 猫の耳トラブルが食物アレルギーに起因する場合、フードの変更は大きな効果をもたらすことがあります。オメガ3脂肪酸が豊富な魚ベースのフード、または新規タンパク源フードへの切り替えが有効です。ただし耳ダニや細菌感染が原因の場合は食事だけでは改善しないため、まず獣医師での診断を受けることをおすすめします。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

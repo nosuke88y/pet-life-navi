@@ -3,14 +3,10 @@ title: "猫の好酸球性肉芽腫に配慮したフードの選び方【アレ
 description: "猫の好酸球性肉芽腫（皮膚の炎症性病変）に対する食事ケアを解説。食物アレルギーとの関係、除去食試験のやり方、低アレルゲンフードの選び方をわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["猫", "好酸球性肉芽腫", "キャットフード", "食物アレルギー", "皮膚ケア"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン スキンケア（猫用）公式サイトで見る"
-    url: "https://example.com/rc-skin-cat"
-  - label: "【PR】ヒルズ z/d 食物アレルギーケア（猫用）公式サイトで見る"
-    url: "https://example.com/hills-zd-cat"
-  - label: "【PR】ネイチャーズバリアント オリジン（加水分解タンパク）公式サイトで見る"
-    url: "https://example.com/origins-hydrolyzed-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の好酸球性肉芽腫複合症（EGC: Eosinophilic Granuloma Complex）は、皮膚・口腔・消化管に炎症性の病変を引き起こす皮膚疾患です。皮膚のただれ・潰瘍・かゆみ・毛の薄い部分などが主な症状で、食物アレルギーが原因の一つと考えられています。
 
@@ -65,3 +61,6 @@ affiliateLinks:
 ## まとめ
 
 猫の好酸球性肉芽腫と食物アレルギーには深い関係があります。フードを変えることで症状が大幅に改善するケースも多いため、除去食試験は有効なアプローチです。ただし自己判断での実施は確認精度が落ちるため、獣医師と連携しながら進めることを強くおすすめします。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

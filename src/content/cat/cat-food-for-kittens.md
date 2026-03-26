@@ -3,14 +3,10 @@ title: "子猫におすすめのキャットフード【成長期に必要な栄
 description: "生後2ヶ月〜1歳の子猫に必要な栄養素とフードの選び方を解説。タウリン・DHA・カルシウムなど成長期に欠かせない成分と、離乳食から成猫用フードへの切り替え方をわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["子猫", "キトン", "キャットフード", "成長期", "栄養管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン キトン 公式サイトで見る"
-    url: "https://example.com/rc-kitten"
-  - label: "【PR】ヒルズ サイエンス・ダイエット キトン 公式サイトで見る"
-    url: "https://example.com/hills-kitten"
-  - label: "【PR】アカナ キャット キトンレシピ 公式サイトで見る"
-    url: "https://example.com/acana-kitten"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 子猫期（キトン期）は一生で最も体が急成長する期間です。骨格・筋肉・脳・免疫系が同時に発達するため、この時期の食事は生涯の健康の土台を作ります。この記事では、子猫に適したフードの選び方と注意点を詳しく解説します。
 
@@ -86,3 +82,6 @@ affiliateLinks:
 ## まとめ
 
 子猫のフード選びは「タウリン・アラキドン酸・DHA・高タンパク・高カロリー」が核心です。猫は犬と異なる「絶対的肉食動物」であるため、猫専用のキトンフードを選ぶことが大前提となります。月齢ごとの給与量を守り、1歳を目安に成猫用フードへ移行することで、愛猫の健やかな成長をサポートできます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

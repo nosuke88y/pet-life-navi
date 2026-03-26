@@ -3,14 +3,10 @@ title: "猫にドッグフードを与えても良いか？【栄養の違いと
 description: "猫にドッグフードを与えるとどうなるか詳しく解説。タウリン不足・ビタミンA不足など猫特有の栄養問題、緊急時の対処法、猫と犬を同居飼育する場合の食事管理を紹介します。"
 date: 2026-03-25
 tags: ["猫", "ドッグフード", "キャットフード", "タウリン", "栄養管理"]
-affiliateLinks:
-  - label: "【PR】モンプチ キャットフード（猫専用・バランス栄養）公式サイトで見る"
-    url: "https://example.com/monpetit-cat"
-  - label: "【PR】いなば 金のだし キャットフード 公式サイトで見る"
-    url: "https://example.com/inaba-kin-dashi"
-  - label: "【PR】ロイヤルカナン インドア アダルト（猫用）公式サイトで見る"
-    url: "https://example.com/rc-indoor-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 犬と猫を一緒に飼っているご家庭では、猫がドッグフードを食べてしまうことがあります。「少しだけなら大丈夫？」という疑問に対して、結論は**短期間なら直ちに命に関わる問題は少ないが、長期的に与えるのは危険**です。
 
@@ -59,3 +55,6 @@ affiliateLinks:
 ## まとめ
 
 猫にドッグフードを継続して与えることは、タウリン不足による心臓病・失明など深刻な健康被害を引き起こすリスクがあります。猫には必ず猫専用の「総合栄養食」と表記されたキャットフードを与えましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

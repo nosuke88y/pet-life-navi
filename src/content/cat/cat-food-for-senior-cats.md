@@ -3,14 +3,10 @@ title: "老猫におすすめのキャットフード【シニア猫の食事管
 description: "7歳を超えた老猫（シニア猫）の食事管理を徹底解説。筋肉量維持・腎臓ケア・消化吸収・関節ケアなどシニア期に必要な栄養素と、老猫に適したキャットフードの選び方をご紹介します。"
 date: 2026-03-24
 tags: ["老猫", "シニア猫", "キャットフード", "腎臓ケア", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン エイジング+12 猫用 公式サイトで見る"
-    url: "https://example.com/rc-aging12"
-  - label: "【PR】ヒルズ サイエンス・ダイエット シニア 猫用 公式サイトで見る"
-    url: "https://example.com/hills-senior-cat"
-  - label: "【PR】ピュリナ プロプラン シニア 猫用 公式サイトで見る"
-    url: "https://example.com/purina-senior-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫は一般的に7歳を過ぎるとシニア期に入り、11歳以上は「高齢猫」と分類されます。適切な食事管理によって、老猫の生活の質（QOL）を高め、寿命を延ばすことができます。この記事では、シニア猫に必要な栄養素とフードの選び方を詳しく解説します。
 
@@ -79,3 +75,6 @@ affiliateLinks:
 ## まとめ
 
 老猫のフード選びの核心は「良質な高タンパク質・腎臓への配慮（低リン・低ナトリウム）・抗酸化成分・オメガ3脂肪酸・十分な水分」です。7歳を超えたらシニア猫用フードへの切り替えを検討し、定期的な健康診断（年2回が理想）を受けながら獣医師と相談して最適な食事管理を続けましょう。食事の質を上げることが、愛猫の長く健やかな老後を支える最善の方法です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

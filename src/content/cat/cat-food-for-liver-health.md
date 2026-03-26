@@ -3,14 +3,10 @@ title: "猫の肝臓数値を下げるフードの選び方【ALT・ASTが高い
 description: "猫の肝臓数値（ALT・AST・GGT）が高い場合の食事ケアを解説。肝臓に優しいフードの条件、避けるべき食材、療法食の活用法、日常的なケアのポイントをわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["猫", "肝臓", "ALT", "キャットフード", "食事管理", "肝臓ケア"]
-affiliateLinks:
-  - label: "【PR】ヒルズ l/d 肝臓ケア キャットフード 公式サイトで見る"
-    url: "https://example.com/hills-ld-cat"
-  - label: "【PR】ロイヤルカナン 肝臓サポート（猫用）公式サイトで見る"
-    url: "https://example.com/rc-hepatic-cat"
-  - label: "【PR】プロプラン ベテリナリーダイエット 肝臓ケア 公式サイトで見る"
-    url: "https://example.com/proplan-hepatic-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の健康診断や定期検査でALT（GPT）やASTなどの肝臓の酵素値が高いと言われることがあります。猫は犬と異なり、ストレスや絶食だけで肝臓に影響が出やすい動物です。肝臓ケアの食事管理は早期から取り組むことが大切です。
 
@@ -68,3 +64,6 @@ ALT値が高い、または肝臓病と診断された場合は、ヒルズ・l/
 ## まとめ
 
 猫の肝臓ケアは「良質なタンパク・低〜中程度の脂肪・抗酸化成分・食事の継続」が基本です。食欲が落ちた猫を放置することが脂肪肝の引き金になるため、早めに対処することが最重要です。異常値が出たら獣医師に相談し、適切な食事プランを立てましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

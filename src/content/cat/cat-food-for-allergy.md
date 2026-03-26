@@ -3,14 +3,10 @@ title: "猫のアレルギーに配慮したキャットフード【食物アレ
 description: "猫の食物アレルギーによるかゆみ・皮膚炎・嘔吐の原因と対策を解説。アレルゲンになりやすい食材、加水分解タンパクフード・ノベルプロテインフードの選び方をわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["アレルギー", "食物アレルギー", "皮膚炎", "キャットフード", "かゆみ"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン スキンケア 猫用 公式サイトで見る"
-    url: "https://example.com/rc-skin-cat"
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 猫用 公式サイトで見る"
-    url: "https://example.com/hills-zd-cat"
-  - label: "【PR】アカナ シングルプロテイン 猫用 公式サイトで見る"
-    url: "https://example.com/acana-single-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 「愛猫が体を何度も掻く」「顔や耳の周りが赤くただれている」「原因不明の嘔吐・下痢が続く」――これらのサインは食物アレルギーのサインかもしれません。猫の食物アレルギーはフードの見直しで改善できるケースがあります。この記事では、猫の食物アレルギーの原因と、適切なフードの選び方を解説します。
 
@@ -101,3 +97,6 @@ affiliateLinks:
 ## まとめ
 
 猫の食物アレルギー対策には「加水分解タンパクフード」または「ノベルプロテインフード」への切り替えが有効です。ただし正確な診断なしにフードを変えても解決しないことも多く、まず動物病院でアレルギー検査や皮膚科的診察を受けることが最善の近道です。原因食材を特定して適切なフードに切り替えることが、愛猫の快適な生活を取り戻す確実な方法です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

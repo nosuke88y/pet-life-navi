@@ -3,14 +3,10 @@ title: "国産キャットフードのメリットと選び方【安全性・品
 description: "国産キャットフードのメリット・デメリットと正しい選び方を解説。日本の食品安全基準・原材料の産地・製造工場の確認方法など、信頼できる国産フードを選ぶためのポイントをご紹介します。"
 date: 2026-03-24
 tags: ["国産キャットフード", "安全性", "原材料", "made in japan", "フード選び"]
-affiliateLinks:
-  - label: "【PR】キャティーマン 国産ジャーキー 公式サイトで見る"
-    url: "https://example.com/cattyman-domestic"
-  - label: "【PR】いなばペット 国産チュール 公式サイトで見る"
-    url: "https://example.com/inaba-churu"
-  - label: "【PR】モグニャン キャットフード 公式サイトで見る"
-    url: "https://example.com/mognyun"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 「愛猫には安全な国産フードを与えたい」という気持ちは多くの飼い主に共通しています。しかし「国産」という言葉には様々な意味があり、すべての国産フードが同等の安全性を持つわけではありません。この記事では、国産キャットフードのメリット・デメリットと、信頼できる製品を選ぶためのポイントを解説します。
 
@@ -87,3 +83,6 @@ affiliateLinks:
 ## まとめ
 
 国産キャットフードには食品安全基準の高さ・トレーサビリティ・迅速な対応というメリットがあります。「国産＝安全・高品質」という思い込みは避け、原材料の具体的な産地・製造元の透明性・栄養基準の適合を確認することが信頼できる製品を選ぶ基本です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

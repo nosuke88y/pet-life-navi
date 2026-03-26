@@ -3,14 +3,10 @@ title: "猫の喘息におすすめのフード【症状を和らげる食事管
 description: "猫の喘息（気管支喘息）に悩む飼い主さんへ。食事が症状に与える影響と、炎症を抑えるフードの選び方、避けるべき食材について詳しく解説します。"
 date: 2026-03-24
 tags: ["喘息", "気管支", "キャットフード", "アレルギー", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 猫用 消化器サポート 公式サイトで見る"
-    url: "https://example.com/rc-digestive-cat"
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 猫用 公式サイトで見る"
-    url: "https://example.com/hills-zd-cat"
-  - label: "【PR】ナチュラルバランス リミテッドインハーブ 猫用 公式サイトで見る"
-    url: "https://example.com/nb-limited-cat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の喘息は、気管支に慢性的な炎症が起きることで咳・ゼーゼーという呼吸音・呼吸困難などを引き起こす病気です。環境的なアレルゲンが主な原因ですが、食事も症状の悪化・改善に影響することがわかっています。この記事では、猫の喘息と食事の関係を解説し、症状を和らげるフードの選び方をご紹介します。
 
@@ -74,3 +70,6 @@ affiliateLinks:
 ## まとめ
 
 猫の喘息は完治が難しい慢性疾患ですが、食事と環境の管理によって症状を安定させることは十分可能です。オメガ3脂肪酸の積極的な摂取・低アレルゲンフードへの切り替え・適切な体重管理を意識することが、愛猫のQOL（生活の質）を守るための第一歩です。症状が続く場合は、必ず動物病院での診察と処方薬による治療を最優先にしてください。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">

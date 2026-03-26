@@ -3,14 +3,10 @@ title: "猫の食物アレルギーに配慮したキャットフード【症状
 description: "猫の食物アレルギーの症状・原因食材・対処法を解説。除去食試験の正しいやり方から、加水分解タンパクフード・ノベルプロテインフードの選び方まで、アレルギーケアの方法をご紹介します。"
 date: 2026-03-24
 tags: ["食物アレルギー", "アレルギー症状", "加水分解タンパク", "キャットフード", "除去食"]
-affiliateLinks:
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 猫用 公式サイトで見る"
-    url: "https://example.com/hills-zd-cat-allergy"
-  - label: "【PR】ロイヤルカナン アミノペプチド フォーミュラ 猫用 公式サイトで見る"
-    url: "https://example.com/rc-amino-cat"
-  - label: "【PR】アカナ シングルプロテイン 猫用 公式サイトで見る"
-    url: "https://example.com/acana-single-cat-allergy"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
 猫の食物アレルギーは皮膚症状だけでなく消化器症状も伴うことが多く、慢性的な体調不良の原因として見落とされやすい疾患です。この記事では、猫の食物アレルギーの症状・原因食材・診断方法・対応フードの選び方を詳しく解説します。
 
@@ -92,3 +88,6 @@ affiliateLinks:
 ## まとめ
 
 猫の食物アレルギーへの対応は「原因食材の特定→アレルゲンを含まないフードへの切り替え」が基本です。自己判断でフードを変えるより、まず動物病院でアレルギーの診察を受けてから除去食試験を行うことが最も確実な方法です。加水分解タンパクフードまたはノベルプロテインフードへの切り替えが、多くの場合に効果的なアプローチとなります。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
