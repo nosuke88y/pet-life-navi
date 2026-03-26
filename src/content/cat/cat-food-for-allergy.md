@@ -8,6 +8,15 @@ tags: ["アレルギー", "食物アレルギー", "皮膚炎", "キャットフ
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt="">
+
 「愛猫が体を何度も掻く」「顔や耳の周りが赤くただれている」「原因不明の嘔吐・下痢が続く」――これらのサインは食物アレルギーのサインかもしれません。猫の食物アレルギーはフードの見直しで改善できるケースがあります。この記事では、猫の食物アレルギーの原因と、適切なフードの選び方を解説します。
 
 ## 猫の食物アレルギーとは
@@ -100,3 +109,12 @@ tags: ["アレルギー", "食物アレルギー", "皮膚炎", "キャットフ
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
 <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt="">
