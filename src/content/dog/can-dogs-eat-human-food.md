@@ -5,23 +5,15 @@ date: 2026-03-25
 tags: ["犬", "人間の食べ物", "危険食材", "食事管理", "食材"]
 ---
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
-<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
-<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""></p>
+</div>
 
 テーブルで食事中に犬が甘えてくると「少しだけなら…」とつい人間の食べ物を与えてしまいたくなりますよね。しかし、犬と人間では消化能力や代謝が異なるため、人間に無害な食材が犬には毒になることがあります。この記事では、与えてよい食材とダメな食材を一覧で解説します。
 
@@ -72,20 +64,12 @@ tags: ["犬", "人間の食べ物", "危険食材", "食事管理", "食材"]
 
 犬に人間の食べ物を与える場合は「チョコレート・タマネギ・ブドウ・キシリトール・アルコール」を絶対に避けることが最優先です。与える前に「犬に安全か？」と一度確認する習慣をつけましょう。誤食した可能性がある場合は、すぐに獣医師に相談してください。
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
-<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
-<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""></p>
+</div>

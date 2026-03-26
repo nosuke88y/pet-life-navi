@@ -5,23 +5,15 @@ date: 2026-03-24
 tags: ["子犬", "パピー", "ドッグフード", "成長期", "栄養管理"]
 ---
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
-<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
-<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""></p>
+</div>
 
 子犬期（パピー期）は一生の中でもっとも体が急速に成長する時期です。骨・筋肉・脳・免疫系のすべてが同時に発達するため、成犬とは異なる特別な栄養が必要です。この記事では、子犬に適したフードの選び方と、成長段階ごとのポイントを解説します。
 
@@ -98,20 +90,12 @@ tags: ["子犬", "パピー", "ドッグフード", "成長期", "栄養管理"]
 
 子犬のフード選びは「体格に合ったパピー専用フード・良質な動物性タンパク質・DHA・適切なカルシウム量」が核心です。大型犬は特に「大型犬専用パピー用」を選ぶことが骨格の健全な発達につながります。月齢と体重の変化を定期的に記録し、獣医師と相談しながら最適な食事管理を続けることが愛犬の健やかな成長を支えます。
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
-<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
-<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
-<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
-<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""></p>
+</div>

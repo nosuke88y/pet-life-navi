@@ -5,17 +5,13 @@ date: 2026-03-25
 tags: ["猫", "肝臓", "ALT", "キャットフード", "食事管理", "肝臓ケア"]
 ---
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a>
-<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a>
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a>
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""></p>
+</div>
 
 猫の健康診断や定期検査でALT（GPT）やASTなどの肝臓の酵素値が高いと言われることがあります。猫は犬と異なり、ストレスや絶食だけで肝臓に影響が出やすい動物です。肝臓ケアの食事管理は早期から取り組むことが大切です。
 
@@ -74,14 +70,10 @@ ALT値が高い、または肝臓病と診断された場合は、ヒルズ・l/
 
 猫の肝臓ケアは「良質なタンパク・低〜中程度の脂肪・抗酸化成分・食事の継続」が基本です。食欲が落ちた猫を放置することが脂肪肝の引き金になるため、早めに対処することが最重要です。異常値が出たら獣医師に相談し、適切な食事プランを立てましょう。
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a>
-<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a>
-<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a>
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt="">
-
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a>
-<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt="">
+<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
+<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""></p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""></p>
+</div>
