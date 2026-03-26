@@ -4,15 +4,6 @@ description: "猫の尿路結石（ストルバイト・シュウ酸カルシウ
 date: 2026-03-24
 tags: ["尿路結石", "ストルバイト", "泌尿器ケア", "キャットフード", "水分補給"]
 ---
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""><br>
-</div>
-
 猫の尿路結石（泌尿器症候群・FLUTD）は猫に非常に多い疾患のひとつです。特に室内飼い・去勢雄猫・運動量が少ない猫に多く見られます。食事管理は結石の予防と再発防止において非常に重要な役割を果たします。
 
 ## 猫の尿路結石の種類と特徴
@@ -87,11 +78,3 @@ tags: ["尿路結石", "ストルバイト", "泌尿器ケア", "キャットフ
 ## まとめ
 
 猫の尿路結石の食事管理の核心は「水分補給の徹底・マグネシウム制限・適切な尿pH管理」です。最も手軽で効果的な対策はウェットフードへの切り替えまたはドライフードへの水分追加です。尿路結石の診断を受けた猫は必ず動物病院で結石の種類を確認し、獣医師の指示のもとで療法食または泌尿器ケアフードに切り替えましょう。
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""><br>
-</div>

@@ -4,15 +4,6 @@ description: "猫の慢性腎臓病（CKD）における食事管理を徹底解
 date: 2026-03-25
 tags: ["猫", "腎臓病", "慢性腎臓病", "CKD", "療法食", "低リン"]
 ---
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""><br>
-</div>
-
 猫の慢性腎臓病（CKD: Chronic Kidney Disease）は中高齢猫に非常に多い病気で、15歳以上の猫の約30〜40%が罹患すると言われています。腎臓の機能は一度低下すると回復が難しいため、食事管理で進行を遅らせることが治療の中心となります。
 
 ## 猫の腎臓病の食事管理が重要な理由
@@ -69,11 +60,3 @@ tags: ["猫", "腎臓病", "慢性腎臓病", "CKD", "療法食", "低リン"]
 ## まとめ
 
 猫の腎臓病の食事管理は「低リン・水分補給・適切なタンパク質・ウェット食の活用」が基本です。病期（ステージ）ごとに食事内容を調整し、定期的な血液・尿検査で状態をモニタリングしながら進めましょう。
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM" rel="nofollow">生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" rel="nofollow">初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" rel="nofollow">体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" rel="nofollow">特許取得成分配合！『カナガンデンタルキャットフード』</a><img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ" alt=""><br>
-</div>

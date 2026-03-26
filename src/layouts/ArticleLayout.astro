@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import AffiliateBox from '../components/AffiliateBox.astro';
 
 interface Props {
   title: string;
@@ -52,6 +53,9 @@ const categoryHref = `/${category}/`;
       {formattedDate}
     </time>
 
+    <!-- アフィリエイトボックス（本文前） -->
+    <AffiliateBox type={category} />
+
     <!-- 記事本文 -->
     <article class="
       prose prose-gray max-w-none
@@ -72,6 +76,9 @@ const categoryHref = `/${category}/`;
     ">
       <slot />
     </article>
+
+    <!-- アフィリエイトボックス（本文後） -->
+    <AffiliateBox type={category} />
 
     <!-- カテゴリへ戻る -->
     <div class="mt-12 pt-8 border-t border-gray-200">

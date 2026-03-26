@@ -4,17 +4,6 @@ description: "犬の腸内環境改善に役立つフードの選び方を解説
 date: 2026-03-24
 tags: ["腸活", "腸内環境", "プロバイオティクス", "ドッグフード", "消化ケア"]
 ---
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""><br>
-</div>
-
 「愛犬が軟便・下痢を繰り返す」「体臭やおならが気になる」「免疫力が低い気がする」——これらはすべて腸内環境の乱れが関与している可能性があります。近年、腸は「第二の脳」と呼ばれるほど全身の健康に影響する臓器であることがわかってきました。この記事では、犬の腸内環境を整えるフードの選び方と腸活のポイントを解説します。
 
 ## 犬の腸内環境と健康の関係
@@ -77,13 +66,3 @@ tags: ["腸活", "腸内環境", "プロバイオティクス", "ドッグフー
 ## まとめ
 
 犬の腸活の基本は「プレバイオティクス・食物繊維・高消化性タンパク質・添加物の少ないフード」です。腸内環境が整うと、軟便改善・免疫力向上・皮膚コンディション改善など全身的な健康効果が期待できます。慢性的な消化器トラブルが続く場合は、フードの見直しと並行して動物病院での受診も必要です。
-
-<div style="background:#f8f8f8; border:1px solid #ddd; padding:12px; margin:16px 0; border-radius:6px;">
-<p style="font-weight:bold; margin-bottom:8px;">🐾 おすすめ商品</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt=""><br>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt=""><br>
-</div>

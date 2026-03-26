@@ -1,0 +1,101 @@
+---
+interface Link {
+  href: string;
+  text: string;
+  img: string;
+}
+
+interface Props {
+  type: 'dog' | 'cat';
+}
+
+const { type } = Astro.props;
+
+const dogLinks: Link[] = [
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6',
+    text: "高級グレインフリードッグフード『カナガン』",
+    img: 'https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
+    text: "プレミアムドッグフード『モグワン』",
+    img: 'https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E',
+    text: '小型犬が喜びサポートする選び抜いた厳選素材',
+    img: 'https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6',
+    text: '犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！',
+    img: 'https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE',
+    text: "【PAW'S GREEN】",
+    img: 'https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY',
+    text: '【公式】安心犬活／初回50％OFF',
+    img: 'https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY',
+  },
+];
+
+const catLinks: Link[] = [
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM',
+    text: "生涯に渡って本来の最適な食生活へ導くペットフードブランド『カナガン』",
+    img: 'https://www11.a8.net/0.gif?a8mat=4AZO4N+40ODJU+3J8+64ALJM',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2',
+    text: '初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】',
+    img: 'https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5GH36I+3J8+6A8XLE',
+    text: "体のコンディションが気になる愛猫やシニア猫に。『モグニャンキャットフード ライト』",
+    img: 'https://www17.a8.net/0.gif?a8mat=4AZO4N+5GH36I+3J8+6A8XLE',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ',
+    text: "特許取得成分配合！『カナガンデンタルキャットフード』",
+    img: 'https://www17.a8.net/0.gif?a8mat=4AZO4N+5CB1Y2+3J8+3SXWUQ',
+  },
+];
+
+const links = type === 'dog' ? dogLinks : catLinks;
+---
+
+<div class="affiliate-box">
+  <p class="affiliate-title">🐾 おすすめ商品</p>
+  {links.map(link => (
+    <div class="affiliate-item">
+      <a href={link.href} rel="nofollow">{link.text}</a>
+      <img border="0" width="1" height="1" src={link.img} alt="" />
+    </div>
+  ))}
+</div>
+
+<style>
+  .affiliate-box {
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin: 16px 0;
+    border-radius: 6px;
+  }
+  .affiliate-title {
+    font-weight: bold;
+    margin: 0 0 8px 0;
+    padding: 0;
+  }
+  .affiliate-item {
+    margin: 0;
+    padding: 2px 0;
+    line-height: 1.5;
+  }
+</style>
