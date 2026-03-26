@@ -11,6 +11,12 @@ tags: ["腸活", "腸内環境", "プロバイオティクス", "ドッグフー
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
 「愛犬が軟便・下痢を繰り返す」「体臭やおならが気になる」「免疫力が低い気がする」——これらはすべて腸内環境の乱れが関与している可能性があります。近年、腸は「第二の脳」と呼ばれるほど全身の健康に影響する臓器であることがわかってきました。この記事では、犬の腸内環境を整えるフードの選び方と腸活のポイントを解説します。
 
 ## 犬の腸内環境と健康の関係
@@ -79,3 +85,9 @@ tags: ["腸活", "腸内環境", "プロバイオティクス", "ドッグフー
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">

@@ -11,6 +11,12 @@ tags: ["犬", "療法食", "処方食", "ドッグフード", "病気ケア"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
 動物病院で「療法食（処方食）を食べさせてください」と言われたことがある方も多いでしょう。療法食とは何か、通常のフードと何が違うのか、疑問に思っている飼い主さんに向けて詳しく解説します。
 
 ## 療法食とは何か
@@ -70,3 +76,9 @@ tags: ["犬", "療法食", "処方食", "ドッグフード", "病気ケア"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">

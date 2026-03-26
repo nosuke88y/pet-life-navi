@@ -11,6 +11,12 @@ tags: ["腎臓病", "CKD", "療法食", "ドッグフード", "健康管理"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
 犬の慢性腎臓病（CKD：Chronic Kidney Disease）は、中高齢犬に多い病気のひとつです。腎臓は一度ダメージを受けると再生が難しいため、進行を遅らせることが治療の中心となります。その中でも「食事管理」は薬と同じくらい重要な役割を果たします。
 
 ## 犬の腎臓病とはどんな病気か
@@ -80,3 +86,9 @@ tags: ["腎臓病", "CKD", "療法食", "ドッグフード", "健康管理"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">

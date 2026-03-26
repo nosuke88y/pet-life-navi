@@ -11,6 +11,12 @@ tags: ["犬", "肝臓ケア", "ドッグフード", "ALT", "食事管理"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
 犬の健康診断で「ALT（肝臓の酵素値）が高い」と言われたことはありませんか？肝臓は「沈黙の臓器」と呼ばれ、症状が出にくい一方で、ダメージが進行すると深刻な病態に至ることもあります。日頃の食事で肝臓を守ることが、愛犬の長寿につながります。
 
 ## 肝臓の働きと食事の関係
@@ -70,3 +76,9 @@ ALT値が高い、または肝臓病と診断された場合は、ヒルズ・l/
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
 <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" rel="nofollow">小型犬が喜びサポートする選び抜いた厳選素材</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4AZO4O+11ICNU+4PA6+C2O5E" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
