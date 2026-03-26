@@ -17,6 +17,12 @@ tags: ["療法食", "処方食", "ドッグフード", "特別食", "獣医師"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+
 動物病院で「療法食に切り替えましょう」と言われたことはありますか？「療法食って普通のフードと何が違うの？」「なぜ処方が必要なの？」という疑問を持つ方は多いと思います。この記事では、療法食の意味・種類・正しい使い方をわかりやすく解説します。
 
 ## 療法食（処方食）とは何か
@@ -103,3 +109,9 @@ tags: ["療法食", "処方食", "ドッグフード", "特別食", "獣医師"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">

@@ -17,6 +17,12 @@ tags: ["腎臓病", "CKD", "療法食", "ドッグフード", "シニア犬"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+
 犬の慢性腎臓病（CKD）は、中高齢犬に多い進行性の病気です。腎臓は一度ダメージを受けると再生しないため、進行を抑えることが治療の中心になります。その中で「食事管理」は薬と同等の重要性を持ちます。この記事では、腎臓病の犬に適したフードの選び方を詳しく解説します。
 
 ## 犬の腎臓病とはどんな病気か
@@ -94,3 +100,9 @@ tags: ["腎臓病", "CKD", "療法食", "ドッグフード", "シニア犬"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">

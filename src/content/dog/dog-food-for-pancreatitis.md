@@ -17,6 +17,12 @@ tags: ["膵炎", "低脂肪", "療法食", "ドッグフード", "消化器"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+
 犬の膵炎（すい炎）は、膵臓が自分自身の消化酵素によって炎症を起こす病気です。高脂肪食や急激な食事変化がきっかけになることが多く、食事管理は治療と再発予防の両面で欠かせません。この記事では、膵炎の犬に適したフードの選び方を詳しく解説します。
 
 ## 犬の膵炎とは
@@ -91,3 +97,9 @@ tags: ["膵炎", "低脂肪", "療法食", "ドッグフード", "消化器"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">

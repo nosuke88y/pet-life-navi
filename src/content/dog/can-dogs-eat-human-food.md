@@ -17,6 +17,12 @@ tags: ["犬", "人間の食べ物", "危険食材", "食事管理", "食材"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+
 テーブルで食事中に犬が甘えてくると「少しだけなら…」とつい人間の食べ物を与えてしまいたくなりますよね。しかし、犬と人間では消化能力や代謝が異なるため、人間に無害な食材が犬には毒になることがあります。この記事では、与えてよい食材とダメな食材を一覧で解説します。
 
 ## 絶対に与えてはいけない食材（毒性あり）
@@ -77,3 +83,9 @@ tags: ["犬", "人間の食べ物", "危険食材", "食事管理", "食材"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">

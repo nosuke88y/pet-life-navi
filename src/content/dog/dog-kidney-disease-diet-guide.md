@@ -17,6 +17,12 @@ tags: ["犬", "腎臓病", "食事管理", "低リン", "療法食"]
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
 
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
+
 犬の腎臓病は、慢性腎臓病（CKD）として中高齢犬に多く見られる病気です。一度傷ついた腎臓は回復しにくいため、食事管理によって進行を遅らせることが治療の中心となります。この記事では、腎臓病の犬に対する食事管理の基本と、病期ごとのポイントを解説します。
 
 ## 腎臓病の食事管理が重要な理由
@@ -82,3 +88,9 @@ tags: ["犬", "腎臓病", "食事管理", "低リン", "療法食"]
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" rel="nofollow">犬用サプリ「目の健康維持に」初回半額お試しキャンペーン実施中！</a>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4AZO4N+55RAAI+3J9O+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" rel="nofollow">【PAW'S GREEN】</a>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+4IJDP6+4ILC+614CY" rel="nofollow">【公式】安心犬活／初回50％OFF</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4AZO4N+4IJDP6+4ILC+614CY" alt="">
