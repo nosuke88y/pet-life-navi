@@ -3,14 +3,13 @@ title: "膵炎の犬におすすめのドッグフード【低脂肪・消化ケ
 description: "膵炎の犬に与えるべきドッグフードの選び方を詳しく解説。低脂肪フードの選び方、避けるべき食材、食事の与え方まで、膵炎ケアの食事管理を完全ガイドします。"
 date: 2026-03-25
 tags: ["犬", "膵炎", "低脂肪フード", "ドッグフード", "食事管理"]
-affiliateLinks:
-  - label: "【PR】ヒルズ i/d 消化ケア 低脂肪 公式サイトで見る"
-    url: "https://example.com/hills-id-lowfat"
-  - label: "【PR】ロイヤルカナン 消化器サポート 低脂肪 公式サイトで見る"
-    url: "https://example.com/rc-digestive-lowfat"
-  - label: "【PR】アニモンダ フォム・ファインステン ライト（低脂肪）公式サイトで見る"
-    url: "https://example.com/animonda-light"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 膵炎は犬に比較的多く見られる消化器系の病気です。一度発症すると再発しやすく、食事管理を徹底しないと繰り返し症状が出ることがあります。この記事では、膵炎の犬に適したドッグフードの選び方と、日々の食事管理のコツを詳しく解説します。
 
@@ -69,3 +68,9 @@ affiliateLinks:
 ## まとめ
 
 膵炎の犬のフード選びは「低脂肪・高消化性・シンプルな原材料」が三原則です。急性期には療法食を使い、回復後も低脂肪フードを継続することで再発リスクを下げられます。定期的に血液検査でリパーゼ値を確認し、獣医師と連携しながら食事管理を続けましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

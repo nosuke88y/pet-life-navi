@@ -3,14 +3,13 @@ title: "ドッグフードの療法食（処方食）とは何か【獣医師処
 description: "犬用の療法食（処方食・プリスクリプションダイエット）について詳しく解説。通常フードとの違い、病気別の種類、入手方法、使い方の注意点をわかりやすく説明します。"
 date: 2026-03-25
 tags: ["犬", "療法食", "処方食", "ドッグフード", "病気ケア"]
-affiliateLinks:
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット 各種 公式サイトで見る"
-    url: "https://example.com/hills-prescription"
-  - label: "【PR】ロイヤルカナン 療法食シリーズ 公式サイトで見る"
-    url: "https://example.com/rc-veterinary"
-  - label: "【PR】プロプラン ベテリナリーダイエット 公式サイトで見る"
-    url: "https://example.com/proplan-vet"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 動物病院で「療法食（処方食）を食べさせてください」と言われたことがある方も多いでしょう。療法食とは何か、通常のフードと何が違うのか、疑問に思っている飼い主さんに向けて詳しく解説します。
 
@@ -65,3 +64,9 @@ affiliateLinks:
 ## まとめ
 
 療法食は病気の犬にとって「食事という治療」です。病名が診断されたら、獣医師に適切な療法食を相談し、指示通りに継続することが回復への近道です。価格は高めですが、長期的には合併症予防につながり、医療費の節約にもなり得ます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

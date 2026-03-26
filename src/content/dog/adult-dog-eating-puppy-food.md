@@ -3,14 +3,13 @@ title: "成犬に子犬用フードを与えても良いか？【カロリー・
 description: "成犬に子犬用（パピー用）ドッグフードを与えても大丈夫か詳しく解説。カロリーオーバーによる肥満リスク、ミネラル過剰の問題、やむを得ない場合の対処法も紹介します。"
 date: 2026-03-25
 tags: ["成犬", "ドッグフード", "パピーフード", "肥満", "栄養管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン アダルト 成犬用 公式サイトで見る"
-    url: "https://example.com/rc-adult"
-  - label: "【PR】ヒルズ サイエンス・ダイエット アダルト 公式サイトで見る"
-    url: "https://example.com/hills-adult"
-  - label: "【PR】アカナ アダルト ドッグフード 公式サイトで見る"
-    url: "https://example.com/acana-adult"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 複数頭の犬を飼っていたり、子犬から成犬になったタイミングでフードが余ってしまうことがあります。「成犬にパピー用フードを与えても大丈夫？」という疑問に対して、結論は**基本的にはNG・長期使用は推奨されません**。その理由を詳しく解説します。
 
@@ -60,3 +59,9 @@ affiliateLinks:
 ## まとめ
 
 成犬に子犬用フードを継続して与えることは、肥満・栄養過多・消化器トラブルのリスクがあるため推奨されません。緊急時には給与量を調整しながら短期間使用し、できるだけ早く成犬用フードに戻しましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

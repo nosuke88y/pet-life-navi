@@ -3,14 +3,13 @@ title: "コンビニで買えるペットフードの選び方【緊急時・旅
 description: "コンビニで売っているドッグフードの選び方を解説。旅行・緊急時にコンビニフードで対応する際の注意点、成分の確認方法、与え方のポイントをわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["犬", "コンビニ", "ペットフード", "緊急時", "旅行"]
-affiliateLinks:
-  - label: "【PR】ピュリナ ワン（コンビニでも買いやすいブランド）公式サイトで見る"
-    url: "https://example.com/purina-one"
-  - label: "【PR】ドッグフード 定期便（旅行・災害備蓄にも）公式サイトで見る"
-    url: "https://example.com/dog-food-subscription"
-  - label: "【PR】いなば CIAO ちゅ〜るドッグ 公式サイトで見る"
-    url: "https://example.com/inaba-churu-dog"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 旅行中にドッグフードを忘れてしまった、災害時でペットフードが手に入らない…そんな緊急の場面では、コンビニエンスストアのペットフードが頼りになります。この記事では、コンビニで購入できるペットフードの選び方と、緊急時の活用方法を解説します。
 
@@ -57,3 +56,9 @@ affiliateLinks:
 ## まとめ
 
 コンビニのペットフードは「総合栄養食の表示あり」「動物性タンパクが主原材料」のものを選ぶのが基本です。急な切り替えによる消化不良を防ぐため、コンビニフードはあくまで緊急対応として利用し、帰宅後は通常のフードに戻しましょう。旅行・災害時のために自宅でも予備ストックを持っておくと安心です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

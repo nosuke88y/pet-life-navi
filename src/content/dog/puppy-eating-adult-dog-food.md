@@ -3,14 +3,13 @@ title: "子犬に成犬用フードを与えても良いか？【成長期の栄
 description: "子犬（パピー）に成犬用ドッグフードを与えても大丈夫か詳しく解説。成長期に必要な栄養素の違い、子犬用フードがない場合の対処法、切り替えのタイミングを紹介します。"
 date: 2026-03-25
 tags: ["子犬", "パピー", "ドッグフード", "成長期", "栄養"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン マキシ パピー 公式サイトで見る"
-    url: "https://example.com/rc-maxi-puppy"
-  - label: "【PR】ヒルズ サイエンス・ダイエット パピー 公式サイトで見る"
-    url: "https://example.com/hills-puppy"
-  - label: "【PR】ニュートロ ナチュラルチョイス パピー 公式サイトで見る"
-    url: "https://example.com/nutro-puppy"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 子犬がいるご家庭で「たまたまパピー用フードが手に入らない」「成犬用しかない」という状況に直面することがあります。結論から言うと、**子犬に成犬用フードを与えることは推奨されません**。その理由と、もしそうせざるを得ない場合の対処法を解説します。
 
@@ -62,3 +61,9 @@ affiliateLinks:
 ## まとめ
 
 子犬に成犬用フードを与えることは基本的に推奨されません。成長期に必要な栄養（カロリー・タンパク質・カルシウム・DHA）が不足するリスクがあります。緊急時は短期間の代用と適切な補完で乗り切り、できるだけ早くパピー用フードに戻しましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

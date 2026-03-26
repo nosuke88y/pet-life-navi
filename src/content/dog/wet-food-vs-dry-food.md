@@ -3,14 +3,13 @@ title: "ウェットフードとドライフードの違い【犬のフード選
 description: "犬のドライフードとウェットフード（缶詰・パウチ）の違いを栄養・コスト・用途別に比較解説。それぞれのメリット・デメリットと、シニア犬・病気の犬など状況別のおすすめをご紹介します。"
 date: 2026-03-24
 tags: ["ドライフード", "ウェットフード", "缶詰", "フード選び", "ドッグフード"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン ウェット 成犬用 公式サイトで見る"
-    url: "https://example.com/rc-wet-adult"
-  - label: "【PR】ヒルズ サイエンス・ダイエット ウェット 公式サイトで見る"
-    url: "https://example.com/hills-wet"
-  - label: "【PR】ロイヤルカナン マキシ アダルト ドライ 公式サイトで見る"
-    url: "https://example.com/rc-maxi-adult"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 ドッグフード選びで最初に直面するのが「ドライフード（カリカリ）にすべきか、ウェットフード（缶詰・パウチ）にすべきか」という選択です。どちらにもメリット・デメリットがあり、愛犬の状態や目的によって使い分けることが重要です。
 
@@ -87,3 +86,9 @@ affiliateLinks:
 ## まとめ
 
 ドライフードとウェットフードにはそれぞれ明確なメリット・デメリットがあります。健康な成犬にはドライフードをベースに、シニア犬・腎臓病・食欲不振の犬にはウェットフードを積極的に活用するのが賢い選択です。「どちらが良い」ではなく「今の愛犬にどちらが合っているか」を基準に、状況に応じて使い分けましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

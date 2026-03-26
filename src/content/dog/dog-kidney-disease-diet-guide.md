@@ -3,14 +3,13 @@ title: "犬の腎臓病の餌・食事管理の方法【ステージ別ケアガ
 description: "犬の腎臓病における食事管理を徹底解説。リンや塩分の制限、タンパク質の考え方、水分補給のポイントなど、病期に応じた食事ケアの方法をわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["犬", "腎臓病", "食事管理", "低リン", "療法食"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 腎臓サポート（犬用）公式サイトで見る"
-    url: "https://example.com/rc-renal-dog"
-  - label: "【PR】ヒルズ k/d 腎臓ケア ドッグフード 公式サイトで見る"
-    url: "https://example.com/hills-kd-dog"
-  - label: "【PR】メディファス 腎臓の健康維持 公式サイトで見る"
-    url: "https://example.com/medifas-kidney-dog"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の腎臓病は、慢性腎臓病（CKD）として中高齢犬に多く見られる病気です。一度傷ついた腎臓は回復しにくいため、食事管理によって進行を遅らせることが治療の中心となります。この記事では、腎臓病の犬に対する食事管理の基本と、病期ごとのポイントを解説します。
 
@@ -65,3 +64,9 @@ affiliateLinks:
 ## まとめ
 
 犬の腎臓病における食事管理は「低リン・適切なタンパク質・十分な水分」が三本柱です。ステージが進むにつれて療法食の活用が有効になります。定期的な血液・尿検査でクレアチニンとリンの値を確認しながら、獣医師と連携して食事プランを立てていきましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

@@ -3,14 +3,13 @@ title: "子犬に適したドッグフードの選び方【成長期の栄養管
 description: "生後2ヶ月〜1歳の子犬に必要な栄養素とフードの選び方を解説。DHA・カルシウム・タンパク質など成長期に欠かせない成分と、体格別の切り替えタイミングをわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["子犬", "パピー", "ドッグフード", "成長期", "栄養管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン マキシ パピー 公式サイトで見る"
-    url: "https://example.com/rc-maxi-puppy"
-  - label: "【PR】ヒルズ サイエンス・ダイエット パピー 公式サイトで見る"
-    url: "https://example.com/hills-puppy"
-  - label: "【PR】アカナ パピーレシピ 公式サイトで見る"
-    url: "https://example.com/acana-puppy"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 子犬期（パピー期）は一生の中でもっとも体が急速に成長する時期です。骨・筋肉・脳・免疫系のすべてが同時に発達するため、成犬とは異なる特別な栄養が必要です。この記事では、子犬に適したフードの選び方と、成長段階ごとのポイントを解説します。
 
@@ -86,3 +85,9 @@ affiliateLinks:
 ## まとめ
 
 子犬のフード選びは「体格に合ったパピー専用フード・良質な動物性タンパク質・DHA・適切なカルシウム量」が核心です。大型犬は特に「大型犬専用パピー用」を選ぶことが骨格の健全な発達につながります。月齢と体重の変化を定期的に記録し、獣医師と相談しながら最適な食事管理を続けることが愛犬の健やかな成長を支えます。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

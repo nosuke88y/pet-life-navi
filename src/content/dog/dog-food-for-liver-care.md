@@ -3,14 +3,13 @@ title: "犬の肝臓ケアにおすすめのフード【肝機能を守る食事
 description: "犬の肝臓ケアに適したフードの選び方を解説。ALT・GPT値が高い犬、肝臓を日頃からケアしたい犬に向けた食材・栄養素・避けるべき成分をわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["犬", "肝臓ケア", "ドッグフード", "ALT", "食事管理"]
-affiliateLinks:
-  - label: "【PR】ヒルズ l/d 肝臓ケア ドッグフード 公式サイトで見る"
-    url: "https://example.com/hills-ld-dog"
-  - label: "【PR】ロイヤルカナン 肝臓サポート（犬用）公式サイトで見る"
-    url: "https://example.com/rc-hepatic-dog"
-  - label: "【PR】ネイチャーズバリアント オリジン（低脂肪フィッシュ）公式サイトで見る"
-    url: "https://example.com/origins-fish"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の健康診断で「ALT（肝臓の酵素値）が高い」と言われたことはありませんか？肝臓は「沈黙の臓器」と呼ばれ、症状が出にくい一方で、ダメージが進行すると深刻な病態に至ることもあります。日頃の食事で肝臓を守ることが、愛犬の長寿につながります。
 
@@ -65,3 +64,9 @@ ALT値が高い、または肝臓病と診断された場合は、ヒルズ・l/
 ## まとめ
 
 犬の肝臓ケアには「良質なタンパク・低脂肪・抗酸化成分・銅の適切な管理」が食事の基本です。定期的な健康診断でALT・ASTの値を確認しながら、早めに食事ケアを始めることが肝臓の寿命を延ばします。異常値が出た際は自己判断せず、必ず獣医師に相談してください。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

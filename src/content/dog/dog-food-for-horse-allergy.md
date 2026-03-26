@@ -3,14 +3,13 @@ title: "犬の馬肉アレルギーに配慮したフード【症状・代替プ
 description: "馬肉フードが普及する中、馬肉アレルギーを持つ犬への対処法を解説。症状・除去食試験・馬肉不使用フードの選び方、代替タンパク源（鹿肉・サーモン等）について詳しくご紹介します。"
 date: 2026-03-24
 tags: ["馬肉アレルギー", "食物アレルギー", "ノベルプロテイン", "ドッグフード", "皮膚ケア"]
-affiliateLinks:
-  - label: "【PR】アカナ シングル ラムサイド 公式サイトで見る"
-    url: "https://example.com/acana-lamb-side"
-  - label: "【PR】オリジン リージョナル レッド 公式サイトで見る"
-    url: "https://example.com/orijen-red"
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 犬用 公式サイトで見る"
-    url: "https://example.com/hills-zd-horse"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 馬肉フードは「アレルギーが起きにくい」「低脂肪で高タンパク」として人気が高まっていますが、すべての犬に安全なわけではありません。馬肉を食べ続けることで感作が起き、アレルギーが発症するケースも報告されています。この記事では、馬肉アレルギーへの対処法と代替フードの選び方を解説します。
 
@@ -75,3 +74,9 @@ affiliateLinks:
 ## まとめ
 
 馬肉は低アレルゲンのイメージがありますが、長期摂取によってアレルギーが起きることがあります。馬肉アレルギーが疑われる場合は、まず動物病院を受診して除去食試験を行い、カンガルー・鹿肉・サーモンなど「これまで食べたことのない食材」を使ったフードへの切り替えを検討しましょう。皮膚症状が続く場合は、オメガ3脂肪酸を豊富に含む魚系フードへの切り替えが皮膚ケアの観点からも有効です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

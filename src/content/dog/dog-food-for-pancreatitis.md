@@ -3,14 +3,13 @@ title: "犬の膵炎に良いフードの選び方【低脂肪食が回復のカ
 description: "犬の膵炎（すい炎）は食事が原因になることも多い病気です。急性・慢性膵炎の食事管理のポイント、低脂肪フードの選び方、与えてはいけない食材を獣医師監修で解説します。"
 date: 2026-03-24
 tags: ["膵炎", "低脂肪", "療法食", "ドッグフード", "消化器"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 消化器サポート 低脂肪 犬用 公式サイトで見る"
-    url: "https://example.com/rc-digestive-lf"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット i/d 低脂肪 公式サイトで見る"
-    url: "https://example.com/hills-id-lf"
-  - label: "【PR】ニュートロ ナチュラルチョイス 低脂肪 公式サイトで見る"
-    url: "https://example.com/nutro-lowfat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の膵炎（すい炎）は、膵臓が自分自身の消化酵素によって炎症を起こす病気です。高脂肪食や急激な食事変化がきっかけになることが多く、食事管理は治療と再発予防の両面で欠かせません。この記事では、膵炎の犬に適したフードの選び方を詳しく解説します。
 
@@ -74,3 +73,9 @@ affiliateLinks:
 ## まとめ
 
 犬の膵炎は食事管理が再発予防の核心です。「低脂肪・高消化性・少量頻回給与」を基本に、動物病院の処方した療法食を中心とした食事に切り替えましょう。一度膵炎を起こした犬は慢性化しやすいため、回復後も低脂肪食を継続することが大切です。脂肪分の多い食材やおやつは生涯にわたって制限することをおすすめします。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

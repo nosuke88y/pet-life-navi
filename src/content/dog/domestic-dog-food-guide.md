@@ -3,14 +3,13 @@ title: "国産ドッグフードのメリットと選び方【安全性・品質
 description: "国産ドッグフードのメリット・デメリットと選び方を解説。原材料の産地・製造基準・安全性など国産フードを選ぶ際のポイントと、信頼できる国産ブランドの見分け方をわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["国産ドッグフード", "安全性", "原材料", "made in japan", "フード選び"]
-affiliateLinks:
-  - label: "【PR】モグワン ドッグフード 公式サイトで見る"
-    url: "https://example.com/mogwan"
-  - label: "【PR】ブッチ ドッグフード 公式サイトで見る"
-    url: "https://example.com/butch-dog"
-  - label: "【PR】ニュートロ ナチュラルチョイス 国内製造 公式サイトで見る"
-    url: "https://example.com/nutro-domestic"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 「愛犬には安全な国産フードを与えたい」という飼い主の気持ちは自然です。しかし「国産だから安全」「輸入品は危険」という単純な図式は必ずしも正しくありません。この記事では、国産ドッグフードのメリット・デメリットと、信頼できる製品を選ぶための具体的なポイントを解説します。
 
@@ -89,3 +88,9 @@ ISO認証・HACCP認証などの品質管理認証を取得している製造工
 ## まとめ
 
 国産ドッグフードには安全基準の高さ・トレーサビリティ・対応の速さというメリットがあります。ただし「国産」の定義が曖昧なため、原材料の産地・製造工場・栄養基準をしっかり確認することが重要です。産地の明確さ・成分表の透明性・栄養基準への適合を基準に選べば、国産フードは愛犬の健康を支える良質な選択肢となります。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

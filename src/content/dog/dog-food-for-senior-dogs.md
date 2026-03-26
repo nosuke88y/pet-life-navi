@@ -3,14 +3,13 @@ title: "老犬におすすめのドッグフード【シニア犬の食事選び
 description: "7歳を過ぎた老犬の食事管理を徹底解説。シニア犬に必要な栄養素、関節ケア・認知機能サポート・消化性を重視したフードの選び方をわかりやすくご紹介します。"
 date: 2026-03-24
 tags: ["老犬", "シニア犬", "ドッグフード", "関節ケア", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン エイジング+8 犬用 公式サイトで見る"
-    url: "https://example.com/rc-aging8"
-  - label: "【PR】ヒルズ サイエンス・ダイエット シニア 公式サイトで見る"
-    url: "https://example.com/hills-senior"
-  - label: "【PR】ニュートロ シュプレモ シニア 公式サイトで見る"
-    url: "https://example.com/nutro-senior"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬は一般的に7歳を過ぎるとシニア期に入ります。体の代謝や消化能力が変化し、若い頃と同じフードでは栄養バランスが合わなくなることがあります。この記事では、老犬（シニア犬）に適したフードの選び方と、年齢別に気をつけたいポイントを解説します。
 
@@ -78,3 +77,9 @@ affiliateLinks:
 ## まとめ
 
 老犬のフード選びは「良質なタンパク質・関節ケア成分・消化性・カロリー管理」の4点が基本です。シニア期に入ったら定期的に健康診断を受け、体重・血液検査の結果を見ながら獣医師と相談してフードを選びましょう。食事の質を上げることが、愛犬の老後のQOL（生活の質）を守ることに直結します。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

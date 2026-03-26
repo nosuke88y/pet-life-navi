@@ -3,14 +3,13 @@ title: "犬のダイエットにおすすめのフード【肥満改善の食事
 description: "犬の肥満改善に効果的なダイエットフードの選び方を解説。低カロリー・高タンパク・食物繊維など肥満解消に必要な栄養素と、ダイエットを成功させる食事管理のコツをご紹介します。"
 date: 2026-03-24
 tags: ["ダイエット", "肥満", "体重管理", "ドッグフード", "低カロリー"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 体重管理 犬用 公式サイトで見る"
-    url: "https://example.com/rc-weight-dog"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット r/d 犬用 公式サイトで見る"
-    url: "https://example.com/hills-rd-dog"
-  - label: "【PR】ピュリナ プロプラン オプティウェイト 公式サイトで見る"
-    url: "https://example.com/purina-optiweight"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の肥満は日本でも増加しており、約30〜40%の犬が過体重または肥満と言われています。肥満は単なる見た目の問題ではなく、関節疾患・糖尿病・心臓病・呼吸器疾患・がんリスクの増加など、深刻な健康問題に直結します。この記事では、犬のダイエットに適したフードの選び方と成功させるポイントを解説します。
 
@@ -84,3 +83,9 @@ BCS4〜5の場合はダイエットが必要です。まず動物病院で目標
 ## まとめ
 
 犬のダイエットフード選びの核心は「低カロリー・高タンパク・高食物繊維・適切な脂肪量」です。しかしフードを変えるだけでなく「正確な計量・おやつ管理・適度な運動」を組み合わせることが成功のカギです。急激な減量は危険なため、動物病院で目標体重と減量ペースを設定した上で無理のないダイエットを進めましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

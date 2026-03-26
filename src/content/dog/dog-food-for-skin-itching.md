@@ -3,14 +3,13 @@ title: "犬の皮膚かゆみを改善するフードの選び方【アレルギ
 description: "犬の皮膚のかゆみを食事で改善する方法を解説。食物アレルギーによるかゆみの見分け方、オメガ3脂肪酸が豊富なフードの選び方、除去食試験のやり方まで詳しく紹介します。"
 date: 2026-03-25
 tags: ["犬", "皮膚かゆみ", "ドッグフード", "食物アレルギー", "オメガ3"]
-affiliateLinks:
-  - label: "【PR】モグワン ドッグフード（低アレルゲン）公式サイトで見る"
-    url: "https://example.com/mogwang"
-  - label: "【PR】ロイヤルカナン スキンケア 公式サイトで見る"
-    url: "https://example.com/rc-skin-care"
-  - label: "【PR】アカナ フリーランシリーズ（加水分解プロテイン）公式サイトで見る"
-    url: "https://example.com/acana-free-run"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬が全身を頻繁に掻いていたり、足を舐め続けていたりする場合、皮膚のかゆみが原因の可能性があります。かゆみの原因はさまざまですが、食事が関係しているケースは少なくありません。この記事では、食事で皮膚のかゆみを改善する方法を詳しく解説します。
 
@@ -56,3 +55,9 @@ affiliateLinks:
 ## まとめ
 
 犬の皮膚かゆみを食事から改善するには、オメガ3脂肪酸が豊富なフードへの切り替えと、食物アレルギーが疑われる場合の除去食試験が効果的です。フードを変えてから効果が出るまでには4〜12週間かかることが多いため、焦らず継続することが大切です。改善が見られない場合は皮膚科専門の獣医師への相談を検討してください。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

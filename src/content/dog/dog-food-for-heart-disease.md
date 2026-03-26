@@ -3,14 +3,13 @@ title: "犬の心臓病におすすめのフード【食事管理で進行を遅
 description: "犬の心臓病（僧帽弁疾患・拡張型心筋症）の食事管理を徹底解説。ナトリウム制限・タウリン・カルニチンなど心臓ケアに重要な栄養素と、療法食の選び方をわかりやすくお伝えします。"
 date: 2026-03-24
 tags: ["心臓病", "僧帽弁疾患", "ドッグフード", "ナトリウム制限", "シニア犬"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 心臓サポート 犬用 公式サイトで見る"
-    url: "https://example.com/rc-cardiac-dog"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット h/d 犬用 公式サイトで見る"
-    url: "https://example.com/hills-hd-dog"
-  - label: "【PR】ピュリナ プロプラン カーディオケア 公式サイトで見る"
-    url: "https://example.com/purina-cardio"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の心臓病は、特に小型犬の中高齢期に非常に多く見られる病気です。心臓病と診断されたとき、薬による治療と並んで「食事管理」が非常に重要な役割を果たします。この記事では、心臓病の犬に適したフードの選び方と食事管理のポイントを解説します。
 
@@ -71,3 +70,9 @@ affiliateLinks:
 ## まとめ
 
 犬の心臓病における食事管理の核心は「ナトリウム制限・タウリン・オメガ3脂肪酸・適切な体重管理」です。病気のステージによって必要な制限も変わるため、定期的な心臓エコー検査・胸部レントゲンを受けながら、かかりつけの獣医師と相談して最適なフードを選びましょう。早めの食事管理が心臓病の進行を遅らせる有効な手段です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

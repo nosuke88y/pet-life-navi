@@ -3,12 +3,13 @@ title: "愛犬に最適なドッグフードの選び方【獣医師監修】"
 description: "ドッグフードの種類・原材料・年齢別の選び方を徹底解説。愛犬の健康を守るために知っておきたいポイントをまとめました。"
 date: 2026-03-24
 tags: ["ドッグフード", "食事", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 犬用 公式サイトで見る"
-    url: "https://example.com/royal-canin-dog"
-  - label: "【PR】ヒルズ サイエンス・ダイエット 公式サイトで見る"
-    url: "https://example.com/hills-dog"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の健康を支える上で、毎日の食事は非常に重要です。市販のドッグフードは種類が多く、何を選べばよいか迷ってしまう飼い主さんも多いでしょう。この記事では、ドッグフード選びの基本から年齢・体格別のポイントまで詳しく解説します。
 
@@ -47,3 +48,9 @@ affiliateLinks:
 ## まとめ
 
 ドッグフード選びに正解は一つではありませんが、愛犬の年齢・体格・健康状態に合ったものを選ぶことが大切です。迷ったときはかかりつけの獣医師に相談することをおすすめします。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

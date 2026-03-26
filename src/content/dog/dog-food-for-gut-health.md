@@ -3,14 +3,13 @@ title: "犬の腸活・腸内環境を整えるフードの選び方【プロバ
 description: "犬の腸内環境改善に役立つフードの選び方を解説。プロバイオティクス・プレバイオティクス・食物繊維など腸活に効果的な成分と、軟便・下痢・免疫低下を改善するフードをご紹介します。"
 date: 2026-03-24
 tags: ["腸活", "腸内環境", "プロバイオティクス", "ドッグフード", "消化ケア"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 消化器サポート 犬用 公式サイトで見る"
-    url: "https://example.com/rc-digestive-dog"
-  - label: "【PR】ヒルズ サイエンス・ダイエット 消化器ケア 公式サイトで見る"
-    url: "https://example.com/hills-digestive-dog"
-  - label: "【PR】ニュートロ ナチュラルチョイス 成犬用 公式サイトで見る"
-    url: "https://example.com/nutro-adult"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 「愛犬が軟便・下痢を繰り返す」「体臭やおならが気になる」「免疫力が低い気がする」——これらはすべて腸内環境の乱れが関与している可能性があります。近年、腸は「第二の脳」と呼ばれるほど全身の健康に影響する臓器であることがわかってきました。この記事では、犬の腸内環境を整えるフードの選び方と腸活のポイントを解説します。
 
@@ -74,3 +73,9 @@ affiliateLinks:
 ## まとめ
 
 犬の腸活の基本は「プレバイオティクス・食物繊維・高消化性タンパク質・添加物の少ないフード」です。腸内環境が整うと、軟便改善・免疫力向上・皮膚コンディション改善など全身的な健康効果が期待できます。慢性的な消化器トラブルが続く場合は、フードの見直しと並行して動物病院での受診も必要です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

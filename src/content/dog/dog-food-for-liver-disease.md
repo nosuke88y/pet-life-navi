@@ -3,14 +3,13 @@ title: "犬の肝臓病に良いフードおすすめ5選【獣医師監修】"
 description: "犬の肝臓病に配慮したドッグフードの選び方を解説。低タンパク・低脂肪・高消化性など、肝臓への負担を減らすための食事管理のポイントをわかりやすく紹介します。"
 date: 2026-03-24
 tags: ["肝臓病", "療法食", "ドッグフード", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 肝臓サポート 犬用 公式サイトで見る"
-    url: "https://example.com/rc-liver-dog"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット l/d 公式サイトで見る"
-    url: "https://example.com/hills-ld-dog"
-  - label: "【PR】ニュートロ リミテッド イングリディエント 公式サイトで見る"
-    url: "https://example.com/nutro-limited"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の肝臓病は、進行するまで症状が現れにくい「沈黙の臓器」とも呼ばれる病気です。診断後は薬物療法と並行して、食事管理が回復の大きなカギを握ります。この記事では、肝臓に負担をかけないフードの選び方と、おすすめの療法食・食事管理のポイントを解説します。
 
@@ -71,3 +70,9 @@ affiliateLinks:
 ## まとめ
 
 犬の肝臓病は食事管理が回復と維持に直結します。療法食への切り替えを検討している場合は、まず動物病院で血液検査や超音波検査を受け、症状の程度を把握してから獣医師の指示に従いましょう。フードは「低脂肪・高消化性・銅制限」を基本に選ぶと安心です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

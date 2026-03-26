@@ -3,14 +3,13 @@ title: "犬の漢方・和漢フードの選び方【効果・成分・注意点
 description: "犬向けの漢方・和漢素材を使ったドッグフードの効果と選び方を解説。クコの実・霊芝・田七人参など和漢素材の働き、メリット・デメリット、信頼できるフードの見分け方をご紹介します。"
 date: 2026-03-24
 tags: ["漢方", "和漢", "薬膳", "ドッグフード", "自然療法"]
-affiliateLinks:
-  - label: "【PR】わんこの和漢ごはん 公式サイトで見る"
-    url: "https://example.com/wakan-dog"
-  - label: "【PR】ナチュラルハーベスト 和漢フード 公式サイトで見る"
-    url: "https://example.com/naturalharvest-wakan"
-  - label: "【PR】ドッグスタンス 和漢 公式サイトで見る"
-    url: "https://example.com/dogstance-wakan"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 近年、犬の食事に漢方・和漢素材を取り入れた「和漢フード」が注目を集めています。「薬を使わず自然な力で健康をサポートしたい」というオーナーの需要を背景に、様々な和漢フードが登場しています。この記事では、和漢フードの特徴・効果・選び方を正しく解説します。
 
@@ -80,3 +79,9 @@ affiliateLinks:
 ## まとめ
 
 犬の和漢フードは、慢性的な健康課題の「補完的サポート」として期待できる選択肢です。ただし科学的エビデンスには限界があり、薬との相互作用リスクもあるため、必ず獣医師に相談した上で取り入れましょう。信頼できるメーカーの製品を選び、主食として必要な栄養バランスが確保されているかを確認することが大前提です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

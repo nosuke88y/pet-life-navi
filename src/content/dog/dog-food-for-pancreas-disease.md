@@ -3,14 +3,13 @@ title: "犬の膵臓病に配慮したフードの選び方【低脂肪・消化
 description: "犬の膵臓病（慢性膵炎・外分泌膵不全など）に配慮したフードの選び方を解説。低脂肪・高消化性の食事が回復と予防のカギです。症状別の食事管理ポイントも紹介。"
 date: 2026-03-25
 tags: ["犬", "膵臓病", "ドッグフード", "低脂肪", "食事管理"]
-affiliateLinks:
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット 消化ケア 公式サイトで見る"
-    url: "https://example.com/hills-digestive-care"
-  - label: "【PR】ロイヤルカナン 消化器サポート（低脂肪）公式サイトで見る"
-    url: "https://example.com/rc-digestive-low-fat"
-  - label: "【PR】パナセア 低脂肪ドッグフード 公式サイトで見る"
-    url: "https://example.com/panacea-low-fat"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の膵臓は消化酵素を分泌し、脂肪・タンパク質・炭水化物の消化を助ける重要な臓器です。膵臓に異常が起きると、消化不良・下痢・嘔吐・体重減少などの症状が現れます。適切な食事管理は症状の緩和と再発防止に大きく貢献します。
 
@@ -69,3 +68,9 @@ affiliateLinks:
 ## まとめ
 
 犬の膵臓病に配慮したフード選びは「低脂肪・高消化性・少量頻回給餌」の3点が基本です。膵臓病は食事次第で症状が大きく改善する一方、管理を怠ると重症化するリスクもあります。定期的な受診と血液検査（リパーゼ値の確認）を続けながら、食事内容を獣医師と相談して決めていきましょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

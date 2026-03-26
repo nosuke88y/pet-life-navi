@@ -3,14 +3,13 @@ title: "ドッグフードと皮膚アレルギーの関係【原因食材と対
 description: "犬の皮膚アレルギーはドッグフードが原因のことも。食物アレルギーを引き起こしやすい食材と、アレルギー対応フードの選び方・除去食試験のやり方をわかりやすく解説します。"
 date: 2026-03-24
 tags: ["皮膚アレルギー", "食物アレルギー", "ドッグフード", "かゆみ", "アトピー"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン スキンケア 犬用 公式サイトで見る"
-    url: "https://example.com/rc-skin"
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 犬用 公式サイトで見る"
-    url: "https://example.com/hills-zd-dog"
-  - label: "【PR】ネイチャーズバリエーション ノベルプロテイン 公式サイトで見る"
-    url: "https://example.com/natures-novel"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 「愛犬が体をしきりに掻く」「皮膚が赤い・フケが多い」という症状は、ドッグフードが原因の食物アレルギーである可能性があります。この記事では、フードと皮膚アレルギーの関係と、適切なフード選びのポイントを解説します。
 
@@ -82,3 +81,9 @@ affiliateLinks:
 ## まとめ
 
 ドッグフードと皮膚アレルギーは密接な関係があります。まずは動物病院でアレルギー検査を受け、原因食材を特定してから加水分解フードやノベルプロテインフードへの切り替えを検討しましょう。オメガ3脂肪酸など皮膚の健康をサポートする栄養素も積極的に摂り入れることが、愛犬の皮膚環境改善の近道です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

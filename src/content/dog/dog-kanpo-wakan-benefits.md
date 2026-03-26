@@ -3,14 +3,13 @@ title: "犬の漢方・薬膳・和漢フードの効果とは？【成分と選
 description: "犬用の漢方・薬膳・和漢フードに含まれる成分の効果を解説。免疫力・腸内環境・皮膚ケアなど、どんな症状・目的に適しているかをわかりやすく紹介します。"
 date: 2026-03-25
 tags: ["犬", "漢方", "薬膳", "和漢フード", "免疫力", "自然療法"]
-affiliateLinks:
-  - label: "【PR】わんこのしあわせごはん（和漢食材配合）公式サイトで見る"
-    url: "https://example.com/wanko-shawase"
-  - label: "【PR】バイオミル 漢方ドッグフード 公式サイトで見る"
-    url: "https://example.com/biomeal-kanpo"
-  - label: "【PR】ナチュラルハーベスト（薬膳ベース）公式サイトで見る"
-    url: "https://example.com/natural-harvest"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 近年、ペットフード市場でも「漢方」「薬膳」「和漢」という言葉を目にする機会が増えています。人間の世界では長年活用されてきたこれらの考え方は、犬の健康管理にも取り入れられています。この記事では、犬用の漢方・薬膳・和漢フードに含まれる成分の効果と、選び方のポイントを解説します。
 
@@ -69,3 +68,9 @@ affiliateLinks:
 ## まとめ
 
 犬用の漢方・薬膳・和漢フードは、免疫サポート・アレルギー緩和・老化防止など多様な目的に対応した食材が配合されています。特定の症状改善を目的とする場合は含有成分を確認し、食事の基本（タンパク質・脂質・炭水化物のバランス）が整ったフードをベースに取り入れるのが理想的です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

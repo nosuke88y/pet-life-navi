@@ -1,22 +1,15 @@
 ---
 import BaseLayout from './BaseLayout.astro';
-import AffiliateBox from '../components/AffiliateBox.astro';
-
-interface AffiliateLink {
-  label: string;
-  url: string;
-}
 
 interface Props {
   title: string;
   description: string;
   date: Date;
   tags: string[];
-  affiliateLinks?: AffiliateLink[];
   category: 'dog' | 'cat';
 }
 
-const { title, description, date, tags, affiliateLinks = [], category } = Astro.props;
+const { title, description, date, tags, category } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('ja-JP', {
   year: 'numeric',
@@ -59,9 +52,6 @@ const categoryHref = `/${category}/`;
       {formattedDate}
     </time>
 
-    <!-- アフィリエイトボックス（本文前） -->
-    {affiliateLinks.length > 0 && <AffiliateBox links={affiliateLinks} />}
-
     <!-- 記事本文 -->
     <article class="
       prose prose-gray max-w-none
@@ -82,9 +72,6 @@ const categoryHref = `/${category}/`;
     ">
       <slot />
     </article>
-
-    <!-- アフィリエイトボックス（本文後） -->
-    {affiliateLinks.length > 0 && <AffiliateBox links={affiliateLinks} />}
 
     <!-- カテゴリへ戻る -->
     <div class="mt-12 pt-8 border-t border-gray-200">

@@ -3,14 +3,13 @@ title: "犬の豚肉アレルギーに配慮したフード【症状・原因・
 description: "犬の豚肉アレルギーの症状と原因、豚肉不使用ドッグフードの選び方を解説。除去食試験のやり方から代替タンパク源（鹿肉・サーモンなど）の活用法まで詳しくご紹介します。"
 date: 2026-03-24
 tags: ["豚肉アレルギー", "食物アレルギー", "ノベルプロテイン", "ドッグフード", "皮膚ケア"]
-affiliateLinks:
-  - label: "【PR】アカナ シングル パシフィカ（サーモン） 公式サイトで見る"
-    url: "https://example.com/acana-pacifica"
-  - label: "【PR】オリジン シングルアニマルプロテイン 公式サイトで見る"
-    url: "https://example.com/orijen-single"
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 犬用 公式サイトで見る"
-    url: "https://example.com/hills-zd-pork"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 豚肉は犬用おやつ（豚耳・豚皮ガム）や一部のドッグフードに使われている食材です。それほど多くはありませんが、豚肉を原因とする食物アレルギーも存在し、症状に気づかずに豚肉含有フードを与え続けているケースもあります。
 
@@ -75,3 +74,9 @@ affiliateLinks:
 ## まとめ
 
 犬の豚肉アレルギーへの対策は「豚肉を含むすべての食材を除去し、代替タンパク源のフードへ切り替えること」が基本です。豚耳や豚皮ガムなど、おやつからの摂取見落としに注意しましょう。正確な診断のために動物病院での除去食試験を受けることが、愛犬の症状を確実に改善する最短の方法です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

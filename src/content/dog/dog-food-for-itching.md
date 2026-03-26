@@ -3,14 +3,13 @@ title: "犬のかゆみを改善するドッグフード【成分と選び方を
 description: "犬がしきりに体を掻く・なめる原因はフードにあるかもしれません。かゆみを改善するオメガ3脂肪酸・加水分解タンパクなど、抗炎症成分を含むドッグフードの選び方を解説します。"
 date: 2026-03-24
 tags: ["かゆみ", "皮膚ケア", "アレルギー", "オメガ3", "ドッグフード"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン スキンサポート 犬用 公式サイトで見る"
-    url: "https://example.com/rc-skin-support"
-  - label: "【PR】ヒルズ ダーム・ディフェンス 公式サイトで見る"
-    url: "https://example.com/hills-derm-defense"
-  - label: "【PR】アカナ シングルプロテイン 公式サイトで見る"
-    url: "https://example.com/acana-single"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 「愛犬が体を掻き続けている」「足を執拗になめる」「耳を頻繁に掻く」――これらのサインは皮膚のかゆみのサインです。かゆみの原因はさまざまですが、フードの見直しで改善するケースは少なくありません。この記事では、犬のかゆみとフードの関係を解説し、改善に役立つフードの選び方をご紹介します。
 
@@ -77,3 +76,9 @@ affiliateLinks:
 ## まとめ
 
 犬のかゆみ改善のためのフード選びでは、「オメガ3脂肪酸の豊富なフード」「加水分解タンパク」「シングルプロテイン」の3つが主要なアプローチです。原因によって最適なフードは異なるため、まず動物病院でアレルギー検査や皮膚科的な診察を受け、原因を特定した上でフードを選ぶことが最も効果的です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

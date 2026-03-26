@@ -3,14 +3,13 @@ title: "ドッグフードと腎臓ケアの関係【慢性腎臓病の食事管
 description: "犬の慢性腎臓病（CKD）における食事管理の重要性を解説。リン・タンパク質・ナトリウムの制限など、腎臓への負担を減らすフードの選び方を獣医師監修でお伝えします。"
 date: 2026-03-24
 tags: ["腎臓病", "CKD", "療法食", "ドッグフード", "健康管理"]
-affiliateLinks:
-  - label: "【PR】ロイヤルカナン 腎臓サポート 犬用 公式サイトで見る"
-    url: "https://example.com/rc-renal-dog"
-  - label: "【PR】ヒルズ プリスクリプション・ダイエット k/d 公式サイトで見る"
-    url: "https://example.com/hills-kd-dog"
-  - label: "【PR】パピーラブ 腎臓ケアフード 公式サイトで見る"
-    url: "https://example.com/puppylove-renal"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 犬の慢性腎臓病（CKD：Chronic Kidney Disease）は、中高齢犬に多い病気のひとつです。腎臓は一度ダメージを受けると再生が難しいため、進行を遅らせることが治療の中心となります。その中でも「食事管理」は薬と同じくらい重要な役割を果たします。
 
@@ -75,3 +74,9 @@ affiliateLinks:
 ## まとめ
 
 犬の腎臓病における食事管理の核心は「リン制限・適切なタンパク質・水分補給」の3つです。療法食は必ず動物病院での処方に基づいて使用し、定期的な血液検査で数値をモニタリングしながら食事内容を調整しましょう。早期発見・早期対応が愛犬のQOL（生活の質）を守る最大の鍵です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

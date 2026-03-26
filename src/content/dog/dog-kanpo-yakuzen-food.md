@@ -3,14 +3,13 @@ title: "犬の漢方・薬膳フードとは？メリットと選び方を解説
 description: "ペット向けの漢方・薬膳フードが注目されています。犬への薬膳食の基本的な考え方、体質別の食材選び、市販品の選び方まで詳しく解説します。"
 date: 2026-03-24
 tags: ["漢方", "薬膳", "ナチュラルフード", "ドッグフード", "体質改善"]
-affiliateLinks:
-  - label: "【PR】犬用薬膳フード「和漢みらい」公式サイトで見る"
-    url: "https://example.com/wakan-mirai"
-  - label: "【PR】ペット漢方 薬膳ドッグフード 公式サイトで見る"
-    url: "https://example.com/pet-kanpo"
-  - label: "【PR】みらいのドッグフード 和漢素材配合 公式サイトで見る"
-    url: "https://example.com/mirai-dog"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 近年、犬のフード選びにおいて「漢方・薬膳」の考え方を取り入れる飼い主さんが増えています。化学的なアプローチとは異なり、食材そのものの力で体を整えるという東洋医学の発想は、シニア犬や体質改善を望む犬にとって注目の選択肢です。
 
@@ -76,3 +75,9 @@ affiliateLinks:
 ## まとめ
 
 犬の漢方・薬膳フードは、体質を根本から整えるためのアプローチとして有効な選択肢です。薬の代替ではなく、日常的な健康維持や体質改善のサポートとして取り入れることが大切です。愛犬の体質に合った食材選びに迷ったときは、ペット薬膳の資格を持つ専門家や獣医師に相談するとよいでしょう。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">

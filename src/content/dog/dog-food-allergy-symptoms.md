@@ -3,14 +3,13 @@ title: "犬の食物アレルギーの症状と対処法【原因食材の特定
 description: "犬の食物アレルギーの症状・原因食材・診断方法・対処法を徹底解説。除去食試験のやり方、アレルギー対応フードの選び方、動物病院での検査について初心者向けにわかりやすく説明します。"
 date: 2026-03-24
 tags: ["食物アレルギー", "アレルギー症状", "除去食", "ドッグフード", "皮膚炎"]
-affiliateLinks:
-  - label: "【PR】ヒルズ z/d 超低アレルゲン 犬用 公式サイトで見る"
-    url: "https://example.com/hills-zd-allergy"
-  - label: "【PR】ロイヤルカナン アミノペプチド フォーミュラ 犬用 公式サイトで見る"
-    url: "https://example.com/rc-amino-dog"
-  - label: "【PR】アカナ シングルプロテイン 犬用 公式サイトで見る"
-    url: "https://example.com/acana-single-allergy"
 ---
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
 
 「愛犬が体を頻繁に掻く」「皮膚が赤い」「慢性的に下痢を繰り返す」——こうした症状が続いている場合、食物アレルギーが原因のひとつかもしれません。この記事では、犬の食物アレルギーの症状から原因特定・対処法までを初心者向けに解説します。
 
@@ -100,3 +99,9 @@ affiliateLinks:
 ## まとめ
 
 犬の食物アレルギーは「原因食材の特定→アレルゲンを含まないフードへの切り替え」が基本的な対処法です。自己判断でフードを変えても解決しないことが多いため、まず動物病院を受診して除去食試験を行い、正確に原因を特定することが症状を確実に改善する近道です。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6" rel="nofollow">高級グレインフリードッグフード『カナガン』</a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6" alt="">
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" rel="nofollow">プレミアムドッグフード『モグワン』</a>
+<img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E" alt="">
