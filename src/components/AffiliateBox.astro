@@ -95,7 +95,20 @@ const links = type === 'dog' ? dogLinks : catLinks;
   }
   .affiliate-item {
     margin: 0;
-    padding: 2px 0;
+    padding: 6px 0;
     line-height: 1.5;
+    border-top: 1px solid #e5e5e5;
+  }
+  .affiliate-item:first-of-type {
+    border-top: none;
+  }
+  .affiliate-item a {
+    color: #059669;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+  }
+  .affiliate-item a:hover {
+    color: #047857;
   }
 </style>
