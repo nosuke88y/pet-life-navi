@@ -44,7 +44,7 @@ const dogLinks: Link[] = [
   },
 ];
 
-// 犬ケア記事用（カナガン・モグワンの2点）
+// 犬ケア記事用
 const dogCareLinks: Link[] = [
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6',
@@ -55,6 +55,16 @@ const dogCareLinks: Link[] = [
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
     text: "プレミアムドッグフード『モグワン』",
     img: 'https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
+    text: '【キュアペット】',
+    img: 'https://www15.a8.net/0.gif?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+VK0M2+3RW8+ZQ80I',
+    text: '肌荒れや乾燥が気になる愛犬に、獣医も薦める肌荒れ対策「アトクリアワン　スキンケア＆サプリメント」',
+    img: 'https://www10.a8.net/0.gif?a8mat=4AZO4O+VK0M2+3RW8+ZQ80I',
   },
 ];
 
@@ -81,11 +91,26 @@ const catLinks: Link[] = [
   },
 ];
 
+// 猫ケア記事用
+const catCareLinks: Link[] = [
+  ...catLinks,
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
+    text: '【キュアペット】',
+    img: 'https://www15.a8.net/0.gif?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+VK0M2+3RW8+ZQ80I',
+    text: '肌荒れや乾燥が気になる愛犬に、獣医も薦める肌荒れ対策「アトクリアワン　スキンケア＆サプリメント」',
+    img: 'https://www10.a8.net/0.gif?a8mat=4AZO4O+VK0M2+3RW8+ZQ80I',
+  },
+];
+
 const linksMap = {
   dog: dogLinks,
   cat: catLinks,
   'dog-care': dogCareLinks,
-  'cat-care': catLinks,
+  'cat-care': catCareLinks,
 };
 
 const links = linksMap[type];
