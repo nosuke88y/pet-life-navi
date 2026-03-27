@@ -3,13 +3,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 
-// 全カテゴリの記事を取得して日付降順に並べる
 const dogPosts = await getCollection('dog');
 const catPosts = await getCollection('cat');
 const dogCarePosts = await getCollection('dog-care');
 const catCarePosts = await getCollection('cat-care');
 
-// カテゴリ判定用マップ（id → category）
 const categoryMap = new Map<string, string>();
 dogPosts.forEach(p => categoryMap.set(p.id, 'dog'));
 catPosts.forEach(p => categoryMap.set(p.id, 'cat'));
@@ -21,6 +19,41 @@ const allPosts = [...dogPosts, ...catPosts, ...dogCarePosts, ...catCarePosts].so
 );
 
 const recentPosts = allPosts.slice(0, 6);
+
+const categories = [
+  {
+    href: '/dog/',
+    emoji: '🐶',
+    label: '犬の記事',
+    count: dogPosts.length,
+    description: 'フード選び・病気ケア・アレルギー対策',
+    gradient: 'from-amber-500 to-orange-600',
+  },
+  {
+    href: '/cat/',
+    emoji: '🐱',
+    label: '猫の記事',
+    count: catPosts.length,
+    description: 'フード選び・健康管理・年齢別ケア',
+    gradient: 'from-violet-500 to-purple-600',
+  },
+  {
+    href: '/dog-care/',
+    emoji: '🐾',
+    label: '犬のケア',
+    count: dogCarePosts.length,
+    description: 'シャンプー・爪切り・歯磨き・トリミング',
+    gradient: 'from-emerald-500 to-teal-600',
+  },
+  {
+    href: '/cat-care/',
+    emoji: '✂️',
+    label: '猫のケア',
+    count: catCarePosts.length,
+    description: 'シャンプー・ブラッシング・爪切り・歯磨き',
+    gradient: 'from-rose-500 to-pink-600',
+  },
+];
 ---
 
 <BaseLayout title="Pet Life Navi">
@@ -41,39 +74,31 @@ const recentPosts = allPosts.slice(0, 6);
     <!-- カテゴリ選択 -->
     <section class="mb-14">
       <h2 class="text-lg font-bold text-gray-700 mb-5">カテゴリから探す</h2>
-      <div class="grid grid-cols-2 gap-4">
-        <a
-          href="/dog/"
-          class="group bg-white border border-gray-200 rounded-2xl p-6 text-center hover:shadow-md hover:border-emerald-300 transition-all"
-        >
-          <div class="text-5xl mb-3">🐶</div>
-          <p class="font-bold text-gray-800 group-hover:text-emerald-700 transition-colors">犬の記事</p>
-          <p class="text-sm text-gray-500 mt-1">{dogPosts.length}件</p>
-        </a>
-        <a
-          href="/cat/"
-          class="group bg-white border border-gray-200 rounded-2xl p-6 text-center hover:shadow-md hover:border-emerald-300 transition-all"
-        >
-          <div class="text-5xl mb-3">🐱</div>
-          <p class="font-bold text-gray-800 group-hover:text-emerald-700 transition-colors">猫の記事</p>
-          <p class="text-sm text-gray-500 mt-1">{catPosts.length}件</p>
-        </a>
-        <a
-          href="/dog-care/"
-          class="group bg-white border border-gray-200 rounded-2xl p-6 text-center hover:shadow-md hover:border-emerald-300 transition-all"
-        >
-          <div class="text-5xl mb-3">🐾</div>
-          <p class="font-bold text-gray-800 group-hover:text-emerald-700 transition-colors">犬のケア</p>
-          <p class="text-sm text-gray-500 mt-1">{dogCarePosts.length}件</p>
-        </a>
-        <a
-          href="/cat-care/"
-          class="group bg-white border border-gray-200 rounded-2xl p-6 text-center hover:shadow-md hover:border-emerald-300 transition-all"
-        >
-          <div class="text-5xl mb-3">✂️</div>
-          <p class="font-bold text-gray-800 group-hover:text-emerald-700 transition-colors">猫のケア</p>
-          <p class="text-sm text-gray-500 mt-1">{catCarePosts.length}件</p>
-        </a>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+        {categories.map((cat) => (
+          <a
+            href={cat.href}
+            class={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${cat.gradient} p-6 md:p-8 text-white shadow-lg hover:shadow-2xl hover:scale-[1.03] transition-all duration-300`}
+          >
+            <!-- 背景装飾 -->
+            <div class="absolute top-0 right-0 text-[8rem] leading-none opacity-15 -mt-4 -mr-4 select-none pointer-events-none transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6">
+              {cat.emoji}
+            </div>
+
+            <!-- コンテンツ -->
+            <div class="relative z-10">
+              <span class="text-4xl block mb-3">{cat.emoji}</span>
+              <p class="text-xl font-bold mb-1">{cat.label}</p>
+              <p class="text-sm text-white/80 mb-3">{cat.description}</p>
+              <div class="flex items-center gap-2">
+                <span class="text-sm font-medium bg-white/20 px-3 py-1 rounded-full">
+                  {cat.count}件の記事
+                </span>
+                <span class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300">→ 見てみる</span>
+              </div>
+            </div>
+          </a>
+        ))}
       </div>
     </section>
 
