@@ -7,15 +7,29 @@ const posts = (await getCollection('dog')).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
 );
 
-// 全タグを集計（出現回数順）
-const tagCount = new Map<string, number>();
-posts.forEach((p) => p.data.tags.forEach((t) => tagCount.set(t, (tagCount.get(t) || 0) + 1)));
-const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
+// テーマ分類：各テーマに該当するタグのキーワード
+const themes = [
+  { label: 'すべて', key: 'all' },
+  { label: 'フード・食事', key: 'food' },
+  { label: '病気・健康', key: 'health' },
+  { label: 'アレルギー', key: 'allergy' },
+  { label: 'シニア・子犬', key: 'age' },
+];
+
+// 記事ごとにテーマを判定
+function getThemes(tags: string[]): string[] {
+  const joined = tags.join(' ');
+  const result: string[] = [];
+  if (/フード|食事|ドッグフード|食材|保存|冷蔵|コンビニ|原材料|成分|国産|グレインフリー|生食|ドライ|ウェット|手作り|漢方|薬膳/.test(joined)) result.push('food');
+  if (/病気|腎臓|肝臓|膵炎|心臓|療法食|処方食|皮膚かゆみ|涙やけ|腸|消化|毛並み|被毛/.test(joined)) result.push('health');
+  if (/アレルギー|鶏肉|豚肉|馬肉|ノベルプロテイン|除去食/.test(joined)) result.push('allergy');
+  if (/シニア|老犬|子犬|パピー|成長期/.test(joined)) result.push('age');
+  return result;
+}
 ---
 
 <BaseLayout title="犬の記事一覧" description="犬の食事・健康・しつけに関する記事をまとめています。">
   <div class="max-w-4xl mx-auto px-4 py-10">
-    <!-- ページヘッダー -->
     <div class="flex items-center gap-3 mb-6">
       <span class="text-4xl">🐶</span>
       <div>
@@ -24,20 +38,18 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
       </div>
     </div>
 
-    <!-- タグフィルター -->
-    <div class="mb-8 flex flex-wrap gap-2" id="tag-filter">
-      <button
-        class="tag-btn active px-3 py-1.5 rounded-full text-sm font-medium border border-emerald-600 bg-emerald-600 text-white transition-colors"
-        data-tag="all"
-      >
-        すべて表示
-      </button>
-      {allTags.map((tag) => (
+    <!-- テーマフィルター -->
+    <div class="mb-8 flex flex-wrap gap-2" id="theme-filter">
+      {themes.map((theme, i) => (
         <button
-          class="tag-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700 transition-colors"
-          data-tag={tag}
+          class={`theme-btn px-4 py-2 rounded-full text-sm font-medium border transition-colors ${
+            i === 0
+              ? 'active border-emerald-600 bg-emerald-600 text-white'
+              : 'border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700'
+          }`}
+          data-theme={theme.key}
         >
-          #{tag}
+          {theme.label}
         </button>
       ))}
     </div>
@@ -46,32 +58,34 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
       <p class="text-gray-500 text-center py-20">記事はまだありません。</p>
     ) : (
       <div class="grid md:grid-cols-2 gap-4" id="article-grid">
-        {posts.map((post) => (
-          <ArticleCard
-            title={post.data.title}
-            description={post.data.description}
-            date={post.data.date}
-            tags={post.data.tags}
-            href={`/dog/${post.id}/`}
-          />
-        ))}
+        {posts.map((post) => {
+          const articleThemes = getThemes(post.data.tags);
+          return (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              date={post.data.date}
+              tags={post.data.tags}
+              href={`/dog/${post.id}/`}
+              data-themes={articleThemes.join(',')}
+            />
+          );
+        })}
       </div>
     )}
-
     <p id="no-results" class="text-gray-500 text-center py-10 hidden">該当する記事がありません。</p>
   </div>
 </BaseLayout>
 
 <script>
-  const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-btn');
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.theme-btn');
   const cards = document.querySelectorAll<HTMLElement>('.article-card');
   const noResults = document.getElementById('no-results');
 
   buttons.forEach((btn) => {
     btn.addEventListener('click', () => {
-      const tag = btn.dataset.tag;
+      const theme = btn.dataset.theme;
 
-      // ボタンのアクティブ状態を切り替え
       buttons.forEach((b) => {
         b.classList.remove('active', 'bg-emerald-600', 'text-white', 'border-emerald-600');
         b.classList.add('border-gray-300', 'text-gray-600');
@@ -79,18 +93,15 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
       btn.classList.add('active', 'bg-emerald-600', 'text-white', 'border-emerald-600');
       btn.classList.remove('border-gray-300', 'text-gray-600');
 
-      // 記事カードをフィルタリング
       let visibleCount = 0;
       cards.forEach((card) => {
-        const cardTags = (card.dataset.tags || '').split(',');
-        const show = tag === 'all' || cardTags.includes(tag!);
+        const cardThemes = (card.dataset.themes || '').split(',');
+        const show = theme === 'all' || cardThemes.includes(theme!);
         card.style.display = show ? '' : 'none';
         if (show) visibleCount++;
       });
 
-      if (noResults) {
-        noResults.classList.toggle('hidden', visibleCount > 0);
-      }
+      if (noResults) noResults.classList.toggle('hidden', visibleCount > 0);
     });
   });
 </script>

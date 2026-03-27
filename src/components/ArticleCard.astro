@@ -5,11 +5,11 @@ interface Props {
   date: Date;
   tags: string[];
   href: string;
+  'data-themes'?: string;
 }
 
-const { title, description, date, tags, href } = Astro.props;
+const { title, description, date, tags, href, 'data-themes': themes } = Astro.props;
 
-// 日付フォーマット（例: 2026年3月24日）
 const formattedDate = date.toLocaleDateString('ja-JP', {
   year: 'numeric',
   month: 'long',
@@ -17,7 +17,7 @@ const formattedDate = date.toLocaleDateString('ja-JP', {
 });
 ---
 
-<a href={href} class="article-card group block bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-emerald-300 transition-all" data-tags={tags.join(',')}>
+<a href={href} class="article-card group block bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-emerald-300 transition-all" data-tags={tags.join(',')} data-themes={themes || ''}>
   <!-- タグ -->
   <div class="flex flex-wrap gap-1 mb-2">
     {tags.map((tag) => (

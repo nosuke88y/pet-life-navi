@@ -7,9 +7,23 @@ const posts = (await getCollection('cat-care')).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
 );
 
-const tagCount = new Map<string, number>();
-posts.forEach((p) => p.data.tags.forEach((t) => tagCount.set(t, (tagCount.get(t) || 0) + 1)));
-const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
+const themes = [
+  { label: 'すべて', key: 'all' },
+  { label: 'シャンプー', key: 'shampoo' },
+  { label: '爪切り・耳掃除', key: 'nailear' },
+  { label: '歯磨き・デンタル', key: 'dental' },
+  { label: 'ブラッシング', key: 'brushing' },
+];
+
+function getThemes(tags: string[]): string[] {
+  const joined = tags.join(' ');
+  const result: string[] = [];
+  if (/シャンプー|長毛/.test(joined)) result.push('shampoo');
+  if (/爪切り|耳掃除/.test(joined)) result.push('nailear');
+  if (/歯磨き|デンタル|歯周病/.test(joined)) result.push('dental');
+  if (/ブラッシング|毛玉対策|抜け毛/.test(joined)) result.push('brushing');
+  return result;
+}
 ---
 
 <BaseLayout title="猫のケア・グルーミング記事一覧" description="猫のシャンプー・耳掃除・爪切り・歯磨き・ブラッシングなどケアとグルーミングに関する記事をまとめています。">
@@ -22,10 +36,18 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
       </div>
     </div>
 
-    <div class="mb-8 flex flex-wrap gap-2" id="tag-filter">
-      <button class="tag-btn active px-3 py-1.5 rounded-full text-sm font-medium border border-emerald-600 bg-emerald-600 text-white transition-colors" data-tag="all">すべて表示</button>
-      {allTags.map((tag) => (
-        <button class="tag-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700 transition-colors" data-tag={tag}>#{tag}</button>
+    <div class="mb-8 flex flex-wrap gap-2" id="theme-filter">
+      {themes.map((theme, i) => (
+        <button
+          class={`theme-btn px-4 py-2 rounded-full text-sm font-medium border transition-colors ${
+            i === 0
+              ? 'active border-emerald-600 bg-emerald-600 text-white'
+              : 'border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700'
+          }`}
+          data-theme={theme.key}
+        >
+          {theme.label}
+        </button>
       ))}
     </div>
 
@@ -33,9 +55,19 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
       <p class="text-gray-500 text-center py-20">記事はまだありません。</p>
     ) : (
       <div class="grid md:grid-cols-2 gap-4" id="article-grid">
-        {posts.map((post) => (
-          <ArticleCard title={post.data.title} description={post.data.description} date={post.data.date} tags={post.data.tags} href={`/cat-care/${post.id}/`} />
-        ))}
+        {posts.map((post) => {
+          const articleThemes = getThemes(post.data.tags);
+          return (
+            <ArticleCard
+              title={post.data.title}
+              description={post.data.description}
+              date={post.data.date}
+              tags={post.data.tags}
+              href={`/cat-care/${post.id}/`}
+              data-themes={articleThemes.join(',')}
+            />
+          );
+        })}
       </div>
     )}
     <p id="no-results" class="text-gray-500 text-center py-10 hidden">該当する記事がありません。</p>
@@ -43,16 +75,16 @@ const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) 
 </BaseLayout>
 
 <script>
-  const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-btn');
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.theme-btn');
   const cards = document.querySelectorAll<HTMLElement>('.article-card');
   const noResults = document.getElementById('no-results');
   buttons.forEach((btn) => {
     btn.addEventListener('click', () => {
-      const tag = btn.dataset.tag;
+      const theme = btn.dataset.theme;
       buttons.forEach((b) => { b.classList.remove('active','bg-emerald-600','text-white','border-emerald-600'); b.classList.add('border-gray-300','text-gray-600'); });
       btn.classList.add('active','bg-emerald-600','text-white','border-emerald-600'); btn.classList.remove('border-gray-300','text-gray-600');
       let v = 0;
-      cards.forEach((c) => { const t = (c.dataset.tags||'').split(','); const s = tag==='all'||t.includes(tag!); c.style.display = s?'':'none'; if(s) v++; });
+      cards.forEach((c) => { const t = (c.dataset.themes||'').split(','); const s = theme==='all'||t.includes(theme!); c.style.display = s?'':'none'; if(s) v++; });
       if (noResults) noResults.classList.toggle('hidden', v > 0);
     });
   });
