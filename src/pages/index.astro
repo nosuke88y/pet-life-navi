@@ -27,7 +27,7 @@ const categories = [
     label: '犬の記事',
     count: dogPosts.length,
     description: 'フード選び・病気ケア・アレルギー対策',
-    gradient: 'from-[#1B5E20] to-[#2E7D32]',
+    gradient: 'from-[#2E7D32] to-[#43A047]',
   },
   {
     href: '/cat/',
@@ -35,7 +35,7 @@ const categories = [
     label: '猫の記事',
     count: catPosts.length,
     description: 'フード選び・健康管理・年齢別ケア',
-    gradient: 'from-[#2E7D32] to-[#43A047]',
+    gradient: 'from-[#388E3C] to-[#66BB6A]',
   },
   {
     href: '/dog-care/',
@@ -43,7 +43,7 @@ const categories = [
     label: '犬のケア',
     count: dogCarePosts.length,
     description: 'シャンプー・爪切り・歯磨き・トリミング',
-    gradient: 'from-[#388E3C] to-[#4CAF50]',
+    gradient: 'from-[#00897B] to-[#26A69A]',
   },
   {
     href: '/cat-care/',
@@ -51,7 +51,7 @@ const categories = [
     label: '猫のケア',
     count: catCarePosts.length,
     description: 'シャンプー・ブラッシング・爪切り・歯磨き',
-    gradient: 'from-[#00897B] to-[#26A69A]',
+    gradient: 'from-[#00897B] to-[#4DB6AC]',
   },
 ];
 ---
@@ -78,15 +78,10 @@ const categories = [
         {categories.map((cat) => (
           <a
             href={cat.href}
-            class={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${cat.gradient} p-6 md:p-8 text-white shadow-lg hover:shadow-2xl hover:scale-[1.03] transition-all duration-300`}
+            class={`group rounded-2xl bg-gradient-to-br ${cat.gradient} p-6 md:p-8 text-white shadow-lg hover:shadow-2xl hover:scale-[1.03] transition-all duration-300`}
           >
-            <!-- 背景装飾 -->
-            <div class="absolute top-0 right-0 text-[8rem] leading-none opacity-15 -mt-4 -mr-4 select-none pointer-events-none transition-transform duration-300 group-hover:scale-110 group-hover:rotate-6">
-              {cat.emoji}
-            </div>
-
             <!-- コンテンツ -->
-            <div class="relative z-10">
+            <div>
               <span class="text-4xl block mb-3">{cat.emoji}</span>
               <p class="text-xl font-bold mb-1">{cat.label}</p>
               <p class="text-sm text-white/80 mb-3">{cat.description}</p>
