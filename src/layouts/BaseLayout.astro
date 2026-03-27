@@ -22,6 +22,15 @@ const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
     <title>{fullTitle}</title>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+    <!-- OGP -->
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:site_name" content="Pet Life Navi" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ja_JP" />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@pet_navi_jp" />
   </head>
   <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
     <Header />
