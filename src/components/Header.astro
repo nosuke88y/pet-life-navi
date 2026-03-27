@@ -17,8 +17,8 @@ const currentPath = Astro.url.pathname;
       <span>Pet Life Navi</span>
     </a>
 
-    <!-- ナビゲーション -->
-    <nav class="flex items-center gap-1">
+    <!-- PC用ナビゲーション（md以上で表示） -->
+    <nav class="hidden md:flex items-center gap-1">
       {navLinks.map((link) => (
         <a
           href={link.href}
@@ -32,5 +32,54 @@ const currentPath = Astro.url.pathname;
         </a>
       ))}
     </nav>
+
+    <!-- ハンバーガーボタン（スマホ用・md未満で表示） -->
+    <button
+      id="menu-toggle"
+      class="md:hidden flex items-center justify-center w-10 h-10 rounded-md text-gray-600 hover:bg-gray-100 transition-colors"
+      aria-label="メニューを開く"
+      aria-expanded="false"
+    >
+      <!-- 三本線アイコン -->
+      <svg id="icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+      <!-- 閉じるアイコン（初期非表示） -->
+      <svg id="icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
   </div>
+
+  <!-- モバイルメニュー（初期非表示） -->
+  <nav id="mobile-menu" class="hidden md:hidden border-t border-gray-200 bg-white">
+    <div class="max-w-4xl mx-auto px-4 py-3 flex flex-col gap-1">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class={`px-4 py-2.5 rounded-md text-sm font-medium transition-colors ${
+            currentPath.startsWith(link.href)
+              ? 'bg-emerald-100 text-emerald-700'
+              : 'text-gray-600 hover:bg-gray-100'
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+  </nav>
 </header>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('mobile-menu');
+  const iconOpen = document.getElementById('icon-open');
+  const iconClose = document.getElementById('icon-close');
+
+  toggle?.addEventListener('click', () => {
+    const isOpen = menu?.classList.toggle('hidden') === false;
+    toggle.setAttribute('aria-expanded', String(isOpen));
+    iconOpen?.classList.toggle('hidden', isOpen);
+    iconClose?.classList.toggle('hidden', !isOpen);
+  });
+</script>
