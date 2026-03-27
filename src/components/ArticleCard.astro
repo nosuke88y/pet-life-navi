@@ -17,7 +17,7 @@ const formattedDate = date.toLocaleDateString('ja-JP', {
 });
 ---
 
-<a href={href} class="group block bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-emerald-300 transition-all">
+<a href={href} class="article-card group block bg-white border border-gray-200 rounded-xl p-5 hover:shadow-md hover:border-emerald-300 transition-all" data-tags={tags.join(',')}>
   <!-- タグ -->
   <div class="flex flex-wrap gap-1 mb-2">
     {tags.map((tag) => (

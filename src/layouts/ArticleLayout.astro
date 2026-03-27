@@ -1,6 +1,23 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import AffiliateBox from '../components/AffiliateBox.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import RelatedArticles from '../components/RelatedArticles.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface RelatedPost {
+  title: string;
+  description: string;
+  date: Date;
+  tags: string[];
+  href: string;
+}
 
 interface Props {
   title: string;
@@ -8,9 +25,11 @@ interface Props {
   date: Date;
   tags: string[];
   category: 'dog' | 'cat' | 'dog-care' | 'cat-care';
+  headings?: Heading[];
+  relatedPosts?: RelatedPost[];
 }
 
-const { title, description, date, tags, category } = Astro.props;
+const { title, description, date, tags, category, headings = [], relatedPosts = [] } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('ja-JP', {
   year: 'numeric',
@@ -26,6 +45,10 @@ const categoryLabelMap = {
 };
 const categoryLabel = categoryLabelMap[category];
 const categoryHref = `/${category}/`;
+
+// シェアボタン用のURL
+const siteUrl = 'https://pet-life-navi.com';
+const pageUrl = `${siteUrl}${Astro.url.pathname}`;
 ---
 
 <BaseLayout title={title} description={description}>
@@ -59,6 +82,9 @@ const categoryHref = `/${category}/`;
       {formattedDate}
     </time>
 
+    <!-- 目次 -->
+    <TableOfContents headings={headings} />
+
     <!-- アフィリエイトボックス（本文前） -->
     <AffiliateBox type={category} />
 
@@ -85,6 +111,12 @@ const categoryHref = `/${category}/`;
 
     <!-- アフィリエイトボックス（本文後） -->
     <AffiliateBox type={category} />
+
+    <!-- SNSシェアボタン -->
+    <ShareButtons title={title} url={pageUrl} />
+
+    <!-- 関連記事 -->
+    <RelatedArticles posts={relatedPosts} />
 
     <!-- カテゴリへ戻る -->
     <div class="mt-12 pt-8 border-t border-gray-200">

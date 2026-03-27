@@ -6,12 +6,22 @@ export async function getStaticPaths() {
   const posts = await getCollection('cat');
   return posts.map((post) => ({
     params: { slug: post.id },
-    props: { post },
+    props: { post, allPosts: posts },
   }));
 }
 
-const { post } = Astro.props;
-const { Content } = await render(post);
+const { post, allPosts } = Astro.props;
+const { Content, headings } = await render(post);
+
+const otherPosts = allPosts.filter((p) => p.id !== post.id);
+const shuffled = otherPosts.sort(() => Math.random() - 0.5);
+const relatedPosts = shuffled.slice(0, 3).map((p) => ({
+  title: p.data.title,
+  description: p.data.description,
+  date: p.data.date,
+  tags: p.data.tags,
+  href: `/cat/${p.id}/`,
+}));
 ---
 
 <ArticleLayout
@@ -20,6 +30,8 @@ const { Content } = await render(post);
   date={post.data.date}
   tags={post.data.tags}
   category="cat"
+  headings={headings}
+  relatedPosts={relatedPosts}
 >
   <Content />
 </ArticleLayout>

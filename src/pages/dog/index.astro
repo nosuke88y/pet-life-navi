@@ -6,12 +6,17 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('dog')).sort(
   (a, b) => b.data.date.getTime() - a.data.date.getTime()
 );
+
+// 全タグを集計（出現回数順）
+const tagCount = new Map<string, number>();
+posts.forEach((p) => p.data.tags.forEach((t) => tagCount.set(t, (tagCount.get(t) || 0) + 1)));
+const allTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).map(([tag]) => tag);
 ---
 
 <BaseLayout title="犬の記事一覧" description="犬の食事・健康・しつけに関する記事をまとめています。">
   <div class="max-w-4xl mx-auto px-4 py-10">
     <!-- ページヘッダー -->
-    <div class="flex items-center gap-3 mb-8">
+    <div class="flex items-center gap-3 mb-6">
       <span class="text-4xl">🐶</span>
       <div>
         <h1 class="text-2xl font-bold text-gray-900">犬の記事一覧</h1>
@@ -19,10 +24,28 @@ const posts = (await getCollection('dog')).sort(
       </div>
     </div>
 
+    <!-- タグフィルター -->
+    <div class="mb-8 flex flex-wrap gap-2" id="tag-filter">
+      <button
+        class="tag-btn active px-3 py-1.5 rounded-full text-sm font-medium border border-emerald-600 bg-emerald-600 text-white transition-colors"
+        data-tag="all"
+      >
+        すべて表示
+      </button>
+      {allTags.map((tag) => (
+        <button
+          class="tag-btn px-3 py-1.5 rounded-full text-sm font-medium border border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700 transition-colors"
+          data-tag={tag}
+        >
+          #{tag}
+        </button>
+      ))}
+    </div>
+
     {posts.length === 0 ? (
       <p class="text-gray-500 text-center py-20">記事はまだありません。</p>
     ) : (
-      <div class="grid md:grid-cols-2 gap-4">
+      <div class="grid md:grid-cols-2 gap-4" id="article-grid">
         {posts.map((post) => (
           <ArticleCard
             title={post.data.title}
@@ -34,5 +57,40 @@ const posts = (await getCollection('dog')).sort(
         ))}
       </div>
     )}
+
+    <p id="no-results" class="text-gray-500 text-center py-10 hidden">該当する記事がありません。</p>
   </div>
 </BaseLayout>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>('.tag-btn');
+  const cards = document.querySelectorAll<HTMLElement>('.article-card');
+  const noResults = document.getElementById('no-results');
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const tag = btn.dataset.tag;
+
+      // ボタンのアクティブ状態を切り替え
+      buttons.forEach((b) => {
+        b.classList.remove('active', 'bg-emerald-600', 'text-white', 'border-emerald-600');
+        b.classList.add('border-gray-300', 'text-gray-600');
+      });
+      btn.classList.add('active', 'bg-emerald-600', 'text-white', 'border-emerald-600');
+      btn.classList.remove('border-gray-300', 'text-gray-600');
+
+      // 記事カードをフィルタリング
+      let visibleCount = 0;
+      cards.forEach((card) => {
+        const cardTags = (card.dataset.tags || '').split(',');
+        const show = tag === 'all' || cardTags.includes(tag!);
+        card.style.display = show ? '' : 'none';
+        if (show) visibleCount++;
+      });
+
+      if (noResults) {
+        noResults.classList.toggle('hidden', visibleCount > 0);
+      }
+    });
+  });
+</script>

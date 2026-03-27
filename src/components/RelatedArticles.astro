@@ -1,0 +1,37 @@
+---
+interface RelatedPost {
+  title: string;
+  description: string;
+  date: Date;
+  tags: string[];
+  href: string;
+}
+
+interface Props {
+  posts: RelatedPost[];
+}
+
+const { posts } = Astro.props;
+---
+
+{posts.length > 0 && (
+  <section class="mt-12 pt-8 border-t border-gray-200">
+    <h2 class="text-lg font-bold text-gray-800 mb-5">📖 あわせて読みたい</h2>
+    <div class="grid gap-4">
+      {posts.map((post) => (
+        <a href={post.href} class="group block bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:border-emerald-300 transition-all">
+          <div class="flex flex-wrap gap-1 mb-1.5">
+            {post.tags.slice(0, 3).map((tag) => (
+              <span class="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full">
+                #{tag}
+              </span>
+            ))}
+          </div>
+          <p class="text-sm font-bold text-gray-900 group-hover:text-emerald-700 transition-colors leading-snug">
+            {post.title}
+          </p>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
