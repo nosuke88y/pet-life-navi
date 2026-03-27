@@ -14,11 +14,23 @@ catPosts.forEach(p => categoryMap.set(p.id, 'cat'));
 dogCarePosts.forEach(p => categoryMap.set(p.id, 'dog-care'));
 catCarePosts.forEach(p => categoryMap.set(p.id, 'cat-care'));
 
-const allPosts = [...dogPosts, ...catPosts, ...dogCarePosts, ...catCarePosts].sort(
-  (a, b) => b.data.date.getTime() - a.data.date.getTime()
-);
+// おすすめ記事（手動指定）
+const recommendedIds = [
+  { collection: 'dog', id: 'dog-food-for-liver-disease' },
+  { collection: 'dog', id: 'dog-food-for-kidney-disease' },
+  { collection: 'dog', id: 'dog-food-for-skin-itching' },
+  { collection: 'cat', id: 'cat-kidney-disease-diet-guide' },
+  { collection: 'dog-care', id: 'dog-ear-cleaning-guide' },
+  { collection: 'cat-care', id: 'kitten-shampoo-guide' },
+];
 
-const recentPosts = allPosts.slice(0, 6);
+const allPosts = [...dogPosts, ...catPosts, ...dogCarePosts, ...catCarePosts];
+const recommendedPosts = recommendedIds
+  .map(({ collection, id }) => {
+    const post = allPosts.find((p) => p.id === id && categoryMap.get(p.id) === collection);
+    return post ? { post, category: collection } : null;
+  })
+  .filter(Boolean) as { post: typeof allPosts[number]; category: string }[];
 
 const categories = [
   {
@@ -97,22 +109,19 @@ const categories = [
       </div>
     </section>
 
-    <!-- 新着記事 -->
+    <!-- おすすめ記事 -->
     <section>
-      <h2 class="text-lg font-bold text-gray-700 mb-5">新着記事</h2>
+      <h2 class="text-lg font-bold text-gray-700 mb-5">おすすめ記事</h2>
       <div class="grid md:grid-cols-2 gap-4">
-        {recentPosts.map((post) => {
-          const category = categoryMap.get(post.id) ?? 'dog';
-          return (
-            <ArticleCard
-              title={post.data.title}
-              description={post.data.description}
-              date={post.data.date}
-              tags={post.data.tags}
-              href={`/${category}/${post.id}/`}
-            />
-          );
-        })}
+        {recommendedPosts.map(({ post, category }) => (
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description}
+            date={post.data.date}
+            tags={post.data.tags}
+            href={`/${category}/${post.id}/`}
+          />
+        ))}
       </div>
     </section>
   </div>
