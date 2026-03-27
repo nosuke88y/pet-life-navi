@@ -6,7 +6,7 @@ interface Link {
 }
 
 interface Props {
-  type: 'dog' | 'cat';
+  type: 'dog' | 'cat' | 'dog-care' | 'cat-care';
 }
 
 const { type } = Astro.props;
@@ -44,6 +44,20 @@ const dogLinks: Link[] = [
   },
 ];
 
+// 犬ケア記事用（カナガン・モグワンの2点）
+const dogCareLinks: Link[] = [
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6',
+    text: "高級グレインフリードッグフード『カナガン』",
+    img: 'https://www15.a8.net/0.gif?a8mat=4AZO4N+5850PM+3J8+HV7V6',
+  },
+  {
+    href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
+    text: "プレミアムドッグフード『モグワン』",
+    img: 'https://www16.a8.net/0.gif?a8mat=4AZO4N+43NJKQ+3J8+1BNJ9E',
+  },
+];
+
 const catLinks: Link[] = [
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+40ODJU+3J8+64ALJM',
@@ -67,7 +81,14 @@ const catLinks: Link[] = [
   },
 ];
 
-const links = type === 'dog' ? dogLinks : catLinks;
+const linksMap = {
+  dog: dogLinks,
+  cat: catLinks,
+  'dog-care': dogCareLinks,
+  'cat-care': catLinks,
+};
+
+const links = linksMap[type];
 ---
 
 <div class="affiliate-box">

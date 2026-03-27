@@ -7,7 +7,7 @@ interface Props {
   description: string;
   date: Date;
   tags: string[];
-  category: 'dog' | 'cat';
+  category: 'dog' | 'cat' | 'dog-care' | 'cat-care';
 }
 
 const { title, description, date, tags, category } = Astro.props;
@@ -18,7 +18,13 @@ const formattedDate = date.toLocaleDateString('ja-JP', {
   day: 'numeric',
 });
 
-const categoryLabel = category === 'dog' ? '🐶 犬' : '🐱 猫';
+const categoryLabelMap = {
+  'dog': '🐶 犬',
+  'cat': '🐱 猫',
+  'dog-care': '🐾 犬のケア',
+  'cat-care': '🐾 猫のケア',
+};
+const categoryLabel = categoryLabelMap[category];
 const categoryHref = `/${category}/`;
 ---
 

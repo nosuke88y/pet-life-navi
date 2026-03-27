@@ -19,4 +19,14 @@ const cat = defineCollection({
   schema: articleSchema,
 });
 
-export const collections = { dog, cat };
+const dogCare = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/dog-care' }),
+  schema: articleSchema,
+});
+
+const catCare = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/cat-care' }),
+  schema: articleSchema,
+});
+
+export const collections = { dog, cat, 'dog-care': dogCare, 'cat-care': catCare };
