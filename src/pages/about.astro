@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="運営者情報" description="Pet Life Naviの運営者情報・サイトについてのページです。">
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-2xl font-bold text-gray-900 mb-8">運営者情報</h1>
+
+    <div class="bg-white border border-gray-200 rounded-2xl p-8">
+      <div class="flex items-center gap-5 mb-6">
+        <div class="w-20 h-20 bg-emerald-100 rounded-full flex items-center justify-center text-4xl">🐾</div>
+        <div>
+          <h2 class="text-xl font-bold text-gray-900">Pet Life Navi 編集部</h2>
+          <p class="text-sm text-gray-500 mt-1">ペット情報メディア運営</p>
+        </div>
+      </div>
+
+      <div class="prose prose-gray max-w-none">
+        <h3>サイト概要</h3>
+        <table>
+          <tbody>
+            <tr><th>サイト名</th><td>Pet Life Navi</td></tr>
+            <tr><th>URL</th><td>https://pet-life-navi.com</td></tr>
+            <tr><th>運営者</th><td>Pet Life Navi 編集部</td></tr>
+            <tr><th>テーマ</th><td>犬・猫の食事・健康・ケア・グルーミング</td></tr>
+          </tbody>
+        </table>
+
+        <h3>サイトを立ち上げた理由</h3>
+        <p>ペットと暮らす飼い主さんが、食事や健康管理について正確でわかりやすい情報にアクセスできるようにするために、Pet Life Naviを立ち上げました。インターネット上には多くのペット情報がありますが、根拠が不明確な情報も少なくありません。当サイトでは、信頼できる情報を整理し、初めて犬や猫を飼う方にもわかりやすくお伝えすることを目指しています。</p>
+
+        <h3>情報の信頼性への取り組み</h3>
+        <ul>
+          <li>各記事は専門的な情報源をもとに作成しています</li>
+          <li>定期的に記事内容を見直し、最新の情報に更新しています</li>
+          <li>正確性を重視し、根拠のある情報をわかりやすく解説することを心がけています</li>
+        </ul>
+
+        <h3>お問い合わせ</h3>
+        <p>ご質問・ご意見・掲載内容に関するご指摘がございましたら、X（旧Twitter）までお気軽にご連絡ください。</p>
+      </div>
+
+      <div class="mt-8 pt-8 border-t border-gray-200 text-center">
+        <a href="https://x.com/pet_navi_jp" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 px-6 py-3 bg-black text-white font-medium rounded-lg hover:bg-gray-800 transition-colors">
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          @pet_navi_jp にお問い合わせ
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
