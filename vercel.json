@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/dog/dog-food-refrigerator-storage/",
+      "destination": "/dog/how-to-store-dog-food/",
+      "permanent": true
+    },
+    {
+      "source": "/dog/dog-food-refrigerator-storage",
+      "destination": "/dog/how-to-store-dog-food/",
+      "permanent": true
+    }
+  ]
+}

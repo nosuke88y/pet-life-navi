@@ -71,5 +71,4 @@ tags: ["犬", "コンビニ", "ペットフード", "緊急時", "旅行"]
 
 ## 関連記事
 - [愛犬に最適なドッグフードの選び方](/dog/choosing-dog-food/)
-- [ドッグフードの保存方法と注意点](/dog/how-to-store-dog-food/)
-- [ドッグフードの冷蔵庫保存ガイド](/dog/dog-food-refrigerator-storage/)
+- [ドッグフードの正しい保存方法｜冷蔵庫はNG？劣化サインも解説](/dog/how-to-store-dog-food/)
