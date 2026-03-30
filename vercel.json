@@ -1,6 +1,12 @@
 {
   "redirects": [
     {
+      "source": "/:path(.*)",
+      "has": [{ "type": "host", "value": "www.pet-life-navi.com" }],
+      "destination": "https://pet-life-navi.com/:path",
+      "permanent": true
+    },
+    {
       "source": "/dog/dog-food-refrigerator-storage/",
       "destination": "/dog/how-to-store-dog-food/",
       "permanent": true
@@ -8,6 +14,36 @@
     {
       "source": "/dog/dog-food-refrigerator-storage",
       "destination": "/dog/how-to-store-dog-food/",
+      "permanent": true
+    },
+    {
+      "source": "/cat/cat-ear-cleaning-guide/",
+      "destination": "/cat-care/cat-ear-cleaning-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/cat/cat-ear-cleaning-guide",
+      "destination": "/cat-care/cat-ear-cleaning-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/cat/kitten-shampoo-guide/",
+      "destination": "/cat-care/kitten-shampoo-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/cat/kitten-shampoo-guide",
+      "destination": "/cat-care/kitten-shampoo-guide/",
+      "permanent": true
+    },
+    {
+      "source": "/dog/dog-food-and-kidney-care/",
+      "destination": "/dog/dog-food-for-kidney-disease/",
+      "permanent": true
+    },
+    {
+      "source": "/dog/dog-food-and-kidney-care",
+      "destination": "/dog/dog-food-for-kidney-disease/",
       "permanent": true
     }
   ]
