@@ -28,9 +28,12 @@ const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
     <meta property="og:site_name" content="Pet Life Navi" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="ja_JP" />
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site ?? 'https://pet-life-navi.com').href} />
+    <meta property="og:image" content="https://pet-life-navi.com/og-image.png" />
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@pet_navi_jp" />
+    <meta name="twitter:image" content="https://pet-life-navi.com/og-image.png" />
   </head>
   <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
     <Header />
