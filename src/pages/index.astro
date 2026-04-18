@@ -66,9 +66,31 @@ const categories = [
     gradient: 'from-[#00897B] to-[#4DB6AC]',
   },
 ];
+
+const siteUrl = 'https://pet-life-navi.com';
+
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Pet Life Navi',
+  alternateName: 'ペットライフナビ',
+  url: `${siteUrl}/`,
+  inLanguage: 'ja',
+};
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Pet Life Navi',
+  url: `${siteUrl}/`,
+  logo: `${siteUrl}/favicon.ico`,
+  sameAs: ['https://x.com/pet_navi_jp'],
+};
+
+const jsonLd = [websiteSchema, organizationSchema];
 ---
 
-<BaseLayout title="Pet Life Navi">
+<BaseLayout title="Pet Life Navi" jsonLd={jsonLd}>
   <!-- ヒーローセクション -->
   <section class="bg-gradient-to-br from-emerald-600 to-teal-700 text-white">
     <div class="max-w-4xl mx-auto px-4 py-16 text-center">

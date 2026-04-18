@@ -48,9 +48,58 @@ const categoryHref = `/${category}/`;
 
 const siteUrl = 'https://pet-life-navi.com';
 const pageUrl = `${siteUrl}${Astro.url.pathname}`;
+
+// 構造化データ用のカテゴリ名（emoji無し・schema用）
+const categoryNameMap = {
+  'dog': '犬',
+  'cat': '猫',
+  'dog-care': '犬のケア',
+  'cat-care': '猫のケア',
+};
+const categoryName = categoryNameMap[category];
+
+const blogPostingSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  datePublished: date.toISOString(),
+  dateModified: date.toISOString(),
+  author: {
+    '@type': 'Organization',
+    name: 'Pet Life Navi編集部',
+    url: siteUrl,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Pet Life Navi',
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/favicon.ico`,
+    },
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': pageUrl,
+  },
+  image: `${siteUrl}/og-image.png`,
+  keywords: tags.join(', '),
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: `${siteUrl}/` },
+    { '@type': 'ListItem', position: 2, name: categoryName, item: `${siteUrl}${categoryHref}` },
+    { '@type': 'ListItem', position: 3, name: title, item: pageUrl },
+  ],
+};
+
+const jsonLd = [blogPostingSchema, breadcrumbSchema];
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} jsonLd={jsonLd}>
   <div class="max-w-6xl mx-auto px-4 py-10">
     <div class="lg:flex lg:gap-10">
 

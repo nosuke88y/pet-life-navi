@@ -6,9 +6,10 @@ import Footer from '../components/Footer.astro';
 interface Props {
   title: string;
   description?: string;
+  jsonLd?: Record<string, unknown>[];
 }
 
-const { title, description = 'ペットと暮らすすべての人へ、役立つ情報をお届けするメディアサイトです。' } = Astro.props;
+const { title, description = 'ペットと暮らすすべての人へ、役立つ情報をお届けするメディアサイトです。', jsonLd = [] } = Astro.props;
 const siteName = 'Pet Life Navi';
 const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
 ---
@@ -38,6 +39,9 @@ const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@pet_navi_jp" />
     <meta name="twitter:image" content="https://pet-life-navi.com/og-image.png" />
+    {jsonLd.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
   </head>
   <body class="bg-gray-50 text-gray-900 min-h-screen flex flex-col">
     <Header />
