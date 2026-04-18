@@ -2,33 +2,33 @@
 const year = new Date().getFullYear();
 ---
 
-<footer class="bg-gray-800 text-gray-300 mt-16">
-  <div class="max-w-4xl mx-auto px-4 py-10">
-    <div class="flex flex-col md:flex-row justify-between gap-6">
+<footer class="bg-white border-t border-[var(--color-rule)] mt-24">
+  <div class="max-w-4xl mx-auto px-4 py-12">
+    <div class="flex flex-col md:flex-row justify-between gap-8">
       <!-- サイト情報 -->
       <div>
-        <p class="text-white font-bold text-lg mb-1">🐾 Pet Life Navi</p>
-        <p class="text-sm text-gray-400">ペットと暮らすすべての人へ、<br>役立つ情報をお届けします。</p>
-        <a href="https://x.com/pet_navi_jp" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 mt-3 text-sm text-gray-400 hover:text-white transition-colors">
-          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        <p class="text-[var(--color-ink)] font-medium text-base mb-2">Pet Life Navi</p>
+        <p class="text-sm text-[var(--color-ink-sub)] leading-relaxed">ペットと暮らすすべての人へ、<br>役立つ情報をお届けします。</p>
+        <a href="https://x.com/pet_navi_jp" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 mt-4 text-sm text-[var(--color-ink-mute)] hover:text-[var(--color-ink)] transition-colors">
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
           @pet_navi_jp
         </a>
       </div>
 
       <!-- リンク -->
-      <nav class="flex flex-col gap-2 text-sm">
-        <a href="/dog/" class="hover:text-white transition-colors">🐶 犬の記事一覧</a>
-        <a href="/cat/" class="hover:text-white transition-colors">🐱 猫の記事一覧</a>
-        <a href="/dog-care/" class="hover:text-white transition-colors">🐾 犬のケア</a>
-        <a href="/cat-care/" class="hover:text-white transition-colors">🐾 猫のケア</a>
-        <a href="/about/" class="hover:text-white transition-colors">運営者情報</a>
-        <a href="/privacy-policy/" class="hover:text-white transition-colors">プライバシーポリシー</a>
-        <a href="/profile/" class="hover:text-white transition-colors">プロフィール</a>
-        <a href="/disclaimer/" class="hover:text-white transition-colors">免責事項</a>
+      <nav class="flex flex-col gap-2.5 text-sm">
+        <a href="/dog/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">犬の記事一覧</a>
+        <a href="/cat/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">猫の記事一覧</a>
+        <a href="/dog-care/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">犬のケア</a>
+        <a href="/cat-care/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">猫のケア</a>
+        <a href="/about/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">運営者情報</a>
+        <a href="/privacy-policy/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">プライバシーポリシー</a>
+        <a href="/profile/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">プロフィール</a>
+        <a href="/disclaimer/" class="text-[var(--color-ink-sub)] hover:text-[var(--color-ink)] transition-colors">免責事項</a>
       </nav>
     </div>
 
-    <div class="border-t border-gray-700 mt-8 pt-6 text-xs text-gray-500 text-center space-y-1">
+    <div class="border-t border-[var(--color-rule)] mt-10 pt-6 text-xs text-[var(--color-ink-mute)] text-center space-y-1">
       <p>当サイトはアフィリエイト広告を掲載しています。</p>
       <p>&copy; {year} Pet Life Navi. All rights reserved.</p>
     </div>

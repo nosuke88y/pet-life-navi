@@ -1,2 +1,28 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
+
+@theme {
+  /* アクセントカラー: 深いティール（ペット系） */
+  --color-accent-50:  oklch(0.96 0.02 200);
+  --color-accent-100: oklch(0.90 0.04 200);
+  --color-accent-600: oklch(0.50 0.08 200);
+  --color-accent-700: oklch(0.42 0.08 200);
+  --color-accent-800: oklch(0.35 0.07 200);
+
+  /* インク（テキスト） */
+  --color-ink:      oklch(0.22 0 0);
+  --color-ink-sub:  oklch(0.40 0 0);
+  --color-ink-mute: oklch(0.55 0 0);
+
+  /* 罫線 */
+  --color-rule:     oklch(0.90 0 0);
+
+  /* フォント */
+  --font-sans: "Noto Sans JP", ui-sans-serif, "Hiragino Kaku Gothic ProN",
+               "Yu Gothic", Meiryo, system-ui, sans-serif;
+}
+
+html {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+}

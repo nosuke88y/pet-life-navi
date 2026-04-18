@@ -33,38 +33,10 @@ const recommendedPosts = recommendedIds
   .filter(Boolean) as { post: typeof allPosts[number]; category: string }[];
 
 const categories = [
-  {
-    href: '/dog/',
-    emoji: '🐶',
-    label: '犬の記事',
-    count: dogPosts.length,
-    description: 'フード選び・病気ケア・アレルギー対策',
-    gradient: 'from-[#2E7D32] to-[#43A047]',
-  },
-  {
-    href: '/cat/',
-    emoji: '🐱',
-    label: '猫の記事',
-    count: catPosts.length,
-    description: 'フード選び・健康管理・年齢別ケア',
-    gradient: 'from-[#388E3C] to-[#66BB6A]',
-  },
-  {
-    href: '/dog-care/',
-    emoji: '🐾',
-    label: '犬のケア',
-    count: dogCarePosts.length,
-    description: 'シャンプー・爪切り・歯磨き・トリミング',
-    gradient: 'from-[#00897B] to-[#26A69A]',
-  },
-  {
-    href: '/cat-care/',
-    emoji: '✂️',
-    label: '猫のケア',
-    count: catCarePosts.length,
-    description: 'シャンプー・ブラッシング・爪切り・歯磨き',
-    gradient: 'from-[#00897B] to-[#4DB6AC]',
-  },
+  { href: '/dog/', label: '犬の記事', count: dogPosts.length, description: 'フード選び・病気ケア・アレルギー対策' },
+  { href: '/cat/', label: '猫の記事', count: catPosts.length, description: 'フード選び・健康管理・年齢別ケア' },
+  { href: '/dog-care/', label: '犬のケア', count: dogCarePosts.length, description: 'シャンプー・爪切り・歯磨き・トリミング' },
+  { href: '/cat-care/', label: '猫のケア', count: catCarePosts.length, description: 'シャンプー・ブラッシング・爪切り・歯磨き' },
 ];
 
 const siteUrl = 'https://pet-life-navi.com';
@@ -91,50 +63,40 @@ const jsonLd = [websiteSchema, organizationSchema];
 ---
 
 <BaseLayout title="Pet Life Navi" jsonLd={jsonLd}>
-  <!-- ヒーローセクション -->
-  <section class="bg-gradient-to-br from-emerald-600 to-teal-700 text-white">
-    <div class="max-w-4xl mx-auto px-4 py-16 text-center">
-      <p class="text-emerald-200 text-sm font-medium mb-3 tracking-widest uppercase">ペット情報メディア</p>
-      <h1 class="text-3xl md:text-4xl font-bold mb-4 leading-tight">
-        ペットともっと豊かに暮らすための<br class="hidden md:block">情報をお届けします
-      </h1>
-      <p class="text-emerald-100 text-base max-w-xl mx-auto">
-        犬・猫の食事・健康・ケア・グルーミングに関する信頼できる情報を、わかりやすく解説します。
-      </p>
-    </div>
+  <!-- ヒーロー -->
+  <section class="max-w-3xl mx-auto px-4 pt-16 pb-12 border-b border-[var(--color-rule)]">
+    <p class="text-xs text-[var(--color-ink-mute)] tracking-[0.3em] uppercase mb-5">Pet Information</p>
+    <h1 class="text-3xl md:text-4xl font-medium text-[var(--color-ink)] leading-tight tracking-tight mb-5">
+      ペットともっと豊かに暮らすための情報を。
+    </h1>
+    <p class="text-sm md:text-base text-[var(--color-ink-sub)] leading-relaxed max-w-xl">
+      犬・猫の食事・健康・ケア・グルーミングに関する信頼できる情報を、わかりやすく解説します。
+    </p>
   </section>
 
-  <div class="max-w-4xl mx-auto px-4 py-12">
-    <!-- カテゴリ選択 -->
-    <section class="mb-14">
-      <h2 class="text-lg font-bold text-gray-700 mb-5">カテゴリから探す</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <!-- カテゴリ -->
+    <section class="mb-16">
+      <h2 class="text-xs text-[var(--color-ink-mute)] tracking-widest uppercase mb-4">Categories</h2>
+      <ul class="border-t border-[var(--color-rule)]">
         {categories.map((cat) => (
-          <a
-            href={cat.href}
-            class={`group rounded-2xl bg-gradient-to-br ${cat.gradient} p-6 md:p-8 text-white shadow-lg hover:shadow-2xl hover:scale-[1.03] transition-all duration-300`}
-          >
-            <!-- コンテンツ -->
-            <div>
-              <span class="text-4xl block mb-3">{cat.emoji}</span>
-              <p class="text-xl font-bold mb-1">{cat.label}</p>
-              <p class="text-sm text-white/80 mb-3">{cat.description}</p>
-              <div class="flex items-center gap-2">
-                <span class="text-sm font-medium bg-white/20 px-3 py-1 rounded-full">
-                  {cat.count}件の記事
-                </span>
-                <span class="text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300">→ 見てみる</span>
+          <li>
+            <a href={cat.href} class="group flex items-baseline justify-between gap-6 py-4 border-b border-[var(--color-rule)] transition-colors hover:bg-neutral-50 px-2 -mx-2">
+              <div class="min-w-0">
+                <p class="text-base font-medium text-[var(--color-ink)] group-hover:text-[var(--color-accent-700)] transition-colors">{cat.label}</p>
+                <p class="text-sm text-[var(--color-ink-mute)] mt-0.5">{cat.description}</p>
               </div>
-            </div>
-          </a>
+              <span class="shrink-0 text-xs text-[var(--color-ink-mute)] tabular-nums">{cat.count}</span>
+            </a>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
 
     <!-- おすすめ記事 -->
     <section>
-      <h2 class="text-lg font-bold text-gray-700 mb-5">おすすめ記事</h2>
-      <div class="grid md:grid-cols-2 gap-4">
+      <h2 class="text-xs text-[var(--color-ink-mute)] tracking-widest uppercase mb-4">Featured</h2>
+      <div class="border-t border-[var(--color-rule)]">
         {recommendedPosts.map(({ post, category }) => (
           <ArticleCard
             title={post.data.title}

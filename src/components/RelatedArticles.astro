@@ -15,23 +15,18 @@ const { posts } = Astro.props;
 ---
 
 {posts.length > 0 && (
-  <section class="mt-12 pt-8 border-t border-gray-200">
-    <h2 class="text-lg font-bold text-gray-800 mb-5">📖 あわせて読みたい</h2>
-    <div class="grid gap-4">
+  <section class="mt-16 pt-8 border-t border-[var(--color-rule)]">
+    <h2 class="text-sm font-medium text-[var(--color-ink-mute)] tracking-widest uppercase mb-4">Related</h2>
+    <ul class="border-t border-[var(--color-rule)]">
       {posts.map((post) => (
-        <a href={post.href} class="group block bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:border-emerald-300 transition-all">
-          <div class="flex flex-wrap gap-1 mb-1.5">
-            {post.tags.slice(0, 3).map((tag) => (
-              <span class="text-xs bg-emerald-50 text-emerald-700 px-2 py-0.5 rounded-full">
-                #{tag}
-              </span>
-            ))}
-          </div>
-          <p class="text-sm font-bold text-gray-900 group-hover:text-emerald-700 transition-colors leading-snug">
-            {post.title}
-          </p>
-        </a>
+        <li>
+          <a href={post.href} class="group block py-4 border-b border-[var(--color-rule)] transition-colors hover:bg-neutral-50 px-2 -mx-2">
+            <p class="text-sm text-[var(--color-ink)] group-hover:text-[var(--color-accent-700)] transition-colors leading-snug">
+              {post.title}
+            </p>
+          </a>
+        </li>
       ))}
-    </div>
+    </ul>
   </section>
 )}

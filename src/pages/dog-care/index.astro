@@ -27,22 +27,19 @@ function getThemes(tags: string[]): string[] {
 ---
 
 <BaseLayout title="犬のケア・グルーミング記事一覧" description="犬のシャンプー・耳掃除・爪切り・歯磨きなどケアとグルーミングに関する記事をまとめています。">
-  <div class="max-w-4xl mx-auto px-4 py-10">
-    <div class="flex items-center gap-3 mb-6">
-      <span class="text-4xl">🐾</span>
-      <div>
-        <h1 class="text-2xl font-bold text-gray-900">犬のケア・グルーミング</h1>
-        <p class="text-sm text-gray-500 mt-0.5">全{posts.length}件</p>
-      </div>
-    </div>
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <header class="mb-8 pb-6 border-b border-[var(--color-rule)]">
+      <h1 class="text-2xl md:text-3xl font-medium text-[var(--color-ink)] tracking-tight">犬のケア・グルーミング</h1>
+      <p class="text-sm text-[var(--color-ink-mute)] mt-2 tabular-nums">全{posts.length}件</p>
+    </header>
 
-    <div class="mb-8 flex flex-wrap gap-2" id="theme-filter">
+    <div class="mb-4 flex flex-wrap gap-x-5 gap-y-2" id="theme-filter">
       {themes.map((theme, i) => (
         <button
-          class={`theme-btn px-4 py-2 rounded-full text-sm font-medium border transition-colors ${
+          class={`theme-btn text-sm transition-colors ${
             i === 0
-              ? 'active border-emerald-600 bg-emerald-600 text-white'
-              : 'border-gray-300 text-gray-600 hover:border-emerald-400 hover:text-emerald-700'
+              ? 'active text-[var(--color-accent-700)] font-medium'
+              : 'text-[var(--color-ink-mute)] hover:text-[var(--color-ink)]'
           }`}
           data-theme={theme.key}
         >
@@ -52,9 +49,9 @@ function getThemes(tags: string[]): string[] {
     </div>
 
     {posts.length === 0 ? (
-      <p class="text-gray-500 text-center py-20">記事はまだありません。</p>
+      <p class="text-[var(--color-ink-mute)] text-center py-20">記事はまだありません。</p>
     ) : (
-      <div class="grid md:grid-cols-2 gap-4" id="article-grid">
+      <div class="border-t border-[var(--color-rule)]" id="article-grid">
         {posts.map((post) => {
           const articleThemes = getThemes(post.data.tags);
           return (
@@ -70,7 +67,7 @@ function getThemes(tags: string[]): string[] {
         })}
       </div>
     )}
-    <p id="no-results" class="text-gray-500 text-center py-10 hidden">該当する記事がありません。</p>
+    <p id="no-results" class="text-[var(--color-ink-mute)] text-center py-10 hidden">該当する記事がありません。</p>
   </div>
 </BaseLayout>
 
@@ -81,8 +78,8 @@ function getThemes(tags: string[]): string[] {
   buttons.forEach((btn) => {
     btn.addEventListener('click', () => {
       const theme = btn.dataset.theme;
-      buttons.forEach((b) => { b.classList.remove('active','bg-emerald-600','text-white','border-emerald-600'); b.classList.add('border-gray-300','text-gray-600'); });
-      btn.classList.add('active','bg-emerald-600','text-white','border-emerald-600'); btn.classList.remove('border-gray-300','text-gray-600');
+      buttons.forEach((b) => { b.classList.remove('active','text-[var(--color-accent-700)]','font-medium'); b.classList.add('text-[var(--color-ink-mute)]'); });
+      btn.classList.add('active','text-[var(--color-accent-700)]','font-medium'); btn.classList.remove('text-[var(--color-ink-mute)]');
       let v = 0;
       cards.forEach((c) => { const t = (c.dataset.themes||'').split(','); const s = theme==='all'||t.includes(theme!); c.style.display = s?'':'none'; if(s) v++; });
       if (noResults) noResults.classList.toggle('hidden', v > 0);
