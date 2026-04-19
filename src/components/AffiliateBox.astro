@@ -1,4 +1,6 @@
 ---
+import { ArrowRight } from 'lucide-astro';
+
 interface Link {
   href: string;
   text: string;
@@ -119,56 +121,24 @@ const linksMap = {
 const links = linksMap[type];
 ---
 
-<aside class="affiliate-box not-prose">
-  <p class="affiliate-label">おすすめアイテム</p>
-  <ul class="affiliate-list">
+<aside class="not-prose my-8">
+  <p class="text-[0.7rem] tracking-[0.2em] uppercase text-[var(--color-ink-mute)] font-medium mb-3">おすすめアイテム</p>
+  <ul class="flex flex-col gap-3">
     {links.map(link => (
-      <li class="affiliate-item">
-        <a href={link.href} rel="nofollow sponsored">{link.text}</a>
-        <img border="0" width="1" height="1" src={link.img} alt="" />
+      <li>
+        <a
+          href={link.href}
+          rel="nofollow sponsored"
+          class="group flex items-center gap-3 px-4 py-3.5 border-2 border-[var(--color-accent-600)] bg-white hover:bg-[var(--color-accent-700)] transition-colors"
+        >
+          <div class="flex-1 min-w-0">
+            <p class="text-sm md:text-[0.95rem] font-bold leading-snug text-[var(--color-accent-700)] group-hover:text-white transition-colors">{link.text}</p>
+            <p class="text-[0.7rem] text-[var(--color-ink-mute)] group-hover:text-white/80 mt-1 transition-colors">公式サイトで詳細を見る</p>
+          </div>
+          <ArrowRight size={18} strokeWidth={2} class="shrink-0 text-[var(--color-accent-700)] group-hover:text-white group-hover:translate-x-0.5 transition-all" />
+          <img border="0" width="1" height="1" src={link.img} alt="" class="sr-only" />
+        </a>
       </li>
     ))}
   </ul>
 </aside>
-
-<style>
-  .affiliate-box {
-    border: 1px solid var(--color-rule);
-    padding: 1.25rem 1.25rem 0.75rem;
-    margin: 2rem 0;
-    background: transparent;
-  }
-  .affiliate-label {
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--color-ink-mute);
-    font-weight: 500;
-    margin: 0 0 0.75rem 0;
-  }
-  .affiliate-list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  .affiliate-item {
-    padding: 0.625rem 0;
-    border-top: 1px solid var(--color-rule);
-    line-height: 1.6;
-    font-size: 0.875rem;
-  }
-  .affiliate-item:first-child {
-    border-top: none;
-    padding-top: 0;
-  }
-  .affiliate-item a {
-    color: var(--color-ink);
-    text-decoration: none;
-    transition: color 0.15s;
-  }
-  .affiliate-item a:hover {
-    color: var(--color-accent-700);
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
-</style>
