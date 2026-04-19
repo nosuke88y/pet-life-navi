@@ -34,7 +34,7 @@ const dogLinks: Link[] = [
   },
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE',
-    text: "【PAW'S GREEN】",
+    text: "PAW'S GREEN",
     img: 'https://www19.a8.net/0.gif?a8mat=4AZO4N+5N0UU2+5PNW+5YRHE',
   },
   {
@@ -44,7 +44,6 @@ const dogLinks: Link[] = [
   },
 ];
 
-// 犬ケア記事用
 const dogCareLinks: Link[] = [
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5850PM+3J8+HV7V6',
@@ -63,12 +62,12 @@ const dogCareLinks: Link[] = [
   },
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
-    text: '【キュアペット】',
+    text: 'キュアペット',
     img: 'https://www13.a8.net/0.gif?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
   },
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5O7Q1M+3J9O+15OK2A',
-    text: '犬用サプリ「シニア犬の健康維持に」初回半額お試しキャンペーン実施中！【毎日一緒　DHA＆EPA】',
+    text: '犬用サプリ「シニア犬の健康維持に」初回半額お試しキャンペーン実施中！（毎日一緒 DHA＆EPA）',
     img: 'https://www12.a8.net/0.gif?a8mat=4AZO4N+5O7Q1M+3J9O+15OK2A',
   },
 ];
@@ -81,7 +80,7 @@ const catLinks: Link[] = [
   },
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2',
-    text: '初回半額お試しキャンペーン実施中！猫用サプリ【毎日良肝　肝臓エキス＆プラセンタ】',
+    text: '初回半額お試しキャンペーン実施中！猫用サプリ（毎日良肝 肝臓エキス＆プラセンタ）',
     img: 'https://www11.a8.net/0.gif?a8mat=4AZO4N+555UOQ+3J9O+2T7WK2',
   },
   {
@@ -96,17 +95,16 @@ const catLinks: Link[] = [
   },
 ];
 
-// 猫ケア記事用
 const catCareLinks: Link[] = [
   ...catLinks,
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
-    text: '【キュアペット】',
+    text: 'キュアペット',
     img: 'https://www13.a8.net/0.gif?a8mat=4AZO4O+RZEZE+3RW8+5YJRM',
   },
   {
     href: 'https://px.a8.net/svt/ejp?a8mat=4AZO4N+5OT5NE+3J9O+1BN3TU',
-    text: '猫用サプリ「シニア猫の健康維持に」楽天ポイントが使える！貯まる！【毎日一緒　DHA＆EPA】',
+    text: '猫用サプリ「シニア猫の健康維持に」楽天ポイントが使える！貯まる！（毎日一緒 DHA＆EPA）',
     img: 'https://www19.a8.net/0.gif?a8mat=4AZO4N+5OT5NE+3J9O+1BN3TU',
   },
 ];
@@ -121,45 +119,56 @@ const linksMap = {
 const links = linksMap[type];
 ---
 
-<div class="affiliate-box">
-  <p class="affiliate-title">🐾 おすすめ商品</p>
-  {links.map(link => (
-    <div class="affiliate-item">
-      <a href={link.href} rel="nofollow">{link.text}</a>
-      <img border="0" width="1" height="1" src={link.img} alt="" />
-    </div>
-  ))}
-</div>
+<aside class="affiliate-box not-prose">
+  <p class="affiliate-label">おすすめアイテム</p>
+  <ul class="affiliate-list">
+    {links.map(link => (
+      <li class="affiliate-item">
+        <a href={link.href} rel="nofollow sponsored">{link.text}</a>
+        <img border="0" width="1" height="1" src={link.img} alt="" />
+      </li>
+    ))}
+  </ul>
+</aside>
 
 <style>
   .affiliate-box {
-    background: #f8f8f8;
-    border: 1px solid #ddd;
-    padding: 12px;
-    margin: 16px 0;
-    border-radius: 6px;
+    border: 1px solid var(--color-rule);
+    padding: 1.25rem 1.25rem 0.75rem;
+    margin: 2rem 0;
+    background: transparent;
   }
-  .affiliate-title {
-    font-weight: bold;
-    margin: 0 0 8px 0;
+  .affiliate-label {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-ink-mute);
+    font-weight: 500;
+    margin: 0 0 0.75rem 0;
+  }
+  .affiliate-list {
+    list-style: none;
+    margin: 0;
     padding: 0;
   }
   .affiliate-item {
-    margin: 0;
-    padding: 6px 0;
-    line-height: 1.5;
-    border-top: 1px solid #e5e5e5;
+    padding: 0.625rem 0;
+    border-top: 1px solid var(--color-rule);
+    line-height: 1.6;
+    font-size: 0.875rem;
   }
-  .affiliate-item:first-of-type {
+  .affiliate-item:first-child {
     border-top: none;
+    padding-top: 0;
   }
   .affiliate-item a {
-    color: #059669;
-    text-decoration: underline;
-    text-underline-offset: 2px;
+    color: var(--color-ink);
+    text-decoration: none;
     transition: color 0.15s;
   }
   .affiliate-item a:hover {
-    color: #047857;
+    color: var(--color-accent-700);
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
 </style>
