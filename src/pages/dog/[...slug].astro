@@ -1,6 +1,7 @@
 ---
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { getCollection, render } from 'astro:content';
+import { extractFaq } from '../../utils/extractFaq';
 
 export async function getStaticPaths() {
   const posts = await getCollection('dog');
@@ -23,6 +24,8 @@ const relatedPosts = shuffled.slice(0, 3).map((p) => ({
   tags: p.data.tags,
   href: `/dog/${p.id}/`,
 }));
+
+const faqItems = extractFaq(post.body ?? '');
 ---
 
 <ArticleLayout
@@ -33,6 +36,7 @@ const relatedPosts = shuffled.slice(0, 3).map((p) => ({
   category="dog"
   headings={headings}
   relatedPosts={relatedPosts}
+  faqItems={faqItems}
 >
   <Content />
 </ArticleLayout>

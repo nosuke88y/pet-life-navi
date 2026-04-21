@@ -19,6 +19,11 @@ interface RelatedPost {
   href: string;
 }
 
+interface FaqItem {
+  q: string;
+  a: string;
+}
+
 interface Props {
   title: string;
   description: string;
@@ -27,9 +32,10 @@ interface Props {
   category: 'dog' | 'cat' | 'dog-care' | 'cat-care';
   headings?: Heading[];
   relatedPosts?: RelatedPost[];
+  faqItems?: FaqItem[];
 }
 
-const { title, description, date, tags, category, headings = [], relatedPosts = [] } = Astro.props;
+const { title, description, date, tags, category, headings = [], relatedPosts = [], faqItems = [] } = Astro.props;
 
 const formattedDate = date.toLocaleDateString('ja-JP', {
   year: 'numeric',
@@ -96,7 +102,20 @@ const breadcrumbSchema = {
   ],
 };
 
-const jsonLd = [blogPostingSchema, breadcrumbSchema];
+const jsonLd: object[] = [blogPostingSchema, breadcrumbSchema];
+
+// FAQPage スキーマ（Q&A が抽出できた記事のみ出力）
+if (faqItems.length > 0) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
+    })),
+  });
+}
 ---
 
 <BaseLayout title={title} description={description} jsonLd={jsonLd}>
