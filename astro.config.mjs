@@ -9,6 +9,11 @@ export default defineConfig({
   site: 'https://pet-life-navi.com',
   trailingSlash: 'always',
 
+  prefetch: {
+    defaultStrategy: 'hover',
+    prefetchAll: false,
+  },
+
   integrations: [sitemap()],
 
   vite: {

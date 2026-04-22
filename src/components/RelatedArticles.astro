@@ -20,7 +20,7 @@ const { posts } = Astro.props;
     <ul class="border-t border-[var(--color-rule)]">
       {posts.map((post) => (
         <li>
-          <a href={post.href} class="group block py-4 border-b border-[var(--color-rule)] transition-colors hover:bg-neutral-50 px-2 -mx-2">
+          <a href={post.href} data-astro-prefetch="viewport" class="group block py-4 border-b border-[var(--color-rule)] transition-colors hover:bg-neutral-50 px-2 -mx-2">
             <p class="text-sm text-[var(--color-ink)] group-hover:text-[var(--color-accent-700)] transition-colors leading-snug">
               {post.title}
             </p>

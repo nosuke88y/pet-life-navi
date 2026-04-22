@@ -198,6 +198,7 @@ if (faqItems.length > 0) {
         <div class="mt-14 pt-6 border-t border-[var(--color-rule)]">
           <a
             href={categoryHref}
+            data-astro-prefetch="viewport"
             class="inline-flex items-center gap-2 text-sm text-[var(--color-accent-700)] hover:text-[var(--color-accent-800)] transition-colors"
           >
             ← {categoryLabel}の記事一覧に戻る
@@ -213,7 +214,7 @@ if (faqItems.length > 0) {
             <ul class="border-t border-[var(--color-rule)]">
               {relatedPosts.map((post) => (
                 <li>
-                  <a href={post.href} class="group block py-3 border-b border-[var(--color-rule)] transition-colors">
+                  <a href={post.href} data-astro-prefetch="viewport" class="group block py-3 border-b border-[var(--color-rule)] transition-colors">
                     <p class="text-sm text-[var(--color-ink)] group-hover:text-[var(--color-accent-700)] transition-colors leading-snug line-clamp-3">
                       {post.title}
                     </p>
