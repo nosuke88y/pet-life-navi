@@ -9,6 +9,10 @@ export default defineConfig({
   site: 'https://pet-life-navi.com',
   trailingSlash: 'always',
 
+  build: {
+    inlineStylesheets: 'always',
+  },
+
   prefetch: {
     defaultStrategy: 'hover',
     prefetchAll: false,
