@@ -20,6 +20,11 @@
       "source": "/dog/dog-food-and-kidney-care/",
       "destination": "/dog/dog-food-for-kidney-disease/",
       "permanent": true
+    },
+    {
+      "source": "/cat/cat-food-allergy-guide/",
+      "destination": "/cat/cat-food-for-allergy/",
+      "permanent": true
     }
   ]
 }
