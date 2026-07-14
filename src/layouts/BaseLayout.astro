@@ -12,6 +12,10 @@ interface Props {
 const { title, description = 'ペットと暮らすすべての人へ、役立つ情報をお届けするメディアサイトです。', jsonLd = [] } = Astro.props;
 const siteName = 'Pet Life Navi';
 const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
+
+// 自己参照canonical用の正規URL（site設定 + trailingSlash付きpathnameから動的生成）
+// astro.config.mjs の site='https://pet-life-navi.com' / trailingSlash:'always' に一致する
+const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://pet-life-navi.com').href;
 ---
 
 <!doctype html>
@@ -21,6 +25,7 @@ const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <title>{fullTitle}</title>
+    <link rel="canonical" href={canonicalURL} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -33,7 +38,7 @@ const fullTitle = title === siteName ? siteName : `${title} | ${siteName}`;
     <meta property="og:site_name" content="Pet Life Navi" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="ja_JP" />
-    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site ?? 'https://pet-life-navi.com').href} />
+    <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content="https://pet-life-navi.com/og-image.png" />
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
