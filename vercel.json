@@ -25,6 +25,11 @@
       "source": "/cat/cat-food-allergy-guide/",
       "destination": "/cat/cat-food-for-allergy/",
       "permanent": true
+    },
+    {
+      "source": "/dog/dog-prescription-food-explained/",
+      "destination": "/dog/what-is-prescription-dog-food/",
+      "permanent": true
     }
   ]
 }

@@ -93,4 +93,4 @@ A. 性ホルモンが減ることで基礎代謝が約20〜30%低下し、同じ
 ## 関連記事
 - [ドッグフードの選び方【初心者向け完全ガイド】](/dog/choosing-dog-food/)
 - [犬の心臓病に配慮した食事管理](/dog/dog-heart-disease-diet-management/)
-- [犬用ドッグフードの療法食（処方食）とは何か](/dog/dog-prescription-food-explained/)
+- [犬の療法食とは？処方食との違いと正しい選び方](/dog/what-is-prescription-dog-food/)
